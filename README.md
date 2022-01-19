@@ -3,7 +3,7 @@
 
 
 ## CCT OODP(Object Orientation with Design Patterns) Project.
-![image](https://user-images.githubusercontent.com/47160450/118740403-b2fa4d80-b843-11eb-9b83-dec48de83b33.png)
+![image](https://user-images.githubusercontent.com/47160450/150195683-26a0ae7e-16a3-4ba7-b4a1-97dbad7f2025.png)
 
 * Implemented JAVA program that simulates commercial trades between three companies. 
 
@@ -15,8 +15,8 @@
 
 * Once a simulation begins:
   - Each company OBJ is created having a random number of native products generated at each depot. 
-  - Each depot in a company then attempts to sell its native products to other companies 
-  - and to buy native products -which become external products-  from a depot of other companies picked in random.
+  - Each depot in a company then simulates to sell its native products to other companies 
+  - (In other words, each depot in companies each attempts to buy external products from a depot of other companies picked in random.)
 
 
 ## Else

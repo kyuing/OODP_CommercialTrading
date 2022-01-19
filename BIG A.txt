@@ -1,0 +1,4609 @@
+BIG A
+
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD1, intialCash=68, currentCash=87, initial # of native products=21
+
+<The default native products price info at THIS depot>
+price=4, deliveryPrice=3
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD13, Total earned from the buyer depot: 87 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD1"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot CD13: 21
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP20[productName=A, id=2da5cdd3], 
+NP19[productName=A, id=4dfcfa31], 
+NP5[productName=A, id=575043e1], 
+NP18[productName=A, id=2f6466d9], 
+NP9[productName=A, id=8f3033d4], 
+NP16[productName=A, id=14409e6], 
+NP13[productName=A, id=379fa6df], 
+NP12[productName=A, id=ddc5a95f], 
+NP7[productName=A, id=38fcfbda], 
+NP11[productName=A, id=b708e625], 
+NP14[productName=A, id=35724c66], 
+NP8[productName=A, id=d05956af], 
+NP10[productName=A, id=de6d269a], 
+NP17[productName=A, id=10eb8327], 
+NP6[productName=A, id=881c5bb1], 
+NP3[productName=A, id=4be7f772], 
+NP4[productName=A, id=71883545], 
+NP2[productName=A, id=b737164d], 
+NP21[productName=A, id=1f838fb], 
+NP1[productName=A, id=43e3d027], 
+NP15[productName=A, id=af7ddbdb]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD46, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD46
+x -> native product price: 2
+y -> # of native product sold: 0
+z -> native product delivery price: 7
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD11, Total paid: 68 (x * y + z)
+
+The native product info at the seller depot CD11
+x -> native product price: 2
+y -> # of native product sold: 32
+z -> native product delivery price: 4
+
+externalProductII=[
+NP24[productName=C, id=f7d4b609], 
+NP32[productName=C, id=7f2a30ac], 
+NP2[productName=C, id=6dce8eeb], 
+NP9[productName=C, id=af3e9b84], 
+NP34[productName=C, id=688e0646], 
+NP33[productName=C, id=89cbc5ee], 
+NP10[productName=C, id=a17419ba], 
+NP5[productName=C, id=b8463e68], 
+NP25[productName=C, id=6a30a2e7], 
+NP11[productName=C, id=4274488], 
+NP30[productName=C, id=70d47855], 
+NP8[productName=C, id=cc6e2c40], 
+NP19[productName=C, id=9d436716], 
+NP21[productName=C, id=5d735c31], 
+NP28[productName=C, id=d2a983cf], 
+NP3[productName=C, id=93233058], 
+NP29[productName=C, id=bc6398a6], 
+NP16[productName=C, id=ea0688cb], 
+NP4[productName=C, id=2129e9f4], 
+NP20[productName=C, id=582fd7d9], 
+NP1[productName=C, id=ac231b16], 
+NP12[productName=C, id=6cb76c8f], 
+NP26[productName=C, id=fbf32505], 
+NP6[productName=C, id=54bba97d], 
+NP35[productName=C, id=db343cbd], 
+NP31[productName=C, id=bd616f8], 
+NP23[productName=C, id=df04289b], 
+NP7[productName=C, id=b7e129d1], 
+NP17[productName=C, id=602ff49b], 
+NP14[productName=C, id=b9038261], 
+NP22[productName=C, id=10e4a377], 
+NP27[productName=C, id=8395e51]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD2, intialCash=68, currentCash=63, initial # of native products=25
+
+<The default native products price info at THIS depot>
+price=4, deliveryPrice=2
+
+nativeProduct left=[
+NP5[productName=A, id=f7f7dbea], 
+NP7[productName=A, id=c5143655], 
+NP8[productName=A, id=66eb0467], 
+NP11[productName=A, id=97bda834], 
+NP12[productName=A, id=a3356bda], 
+NP13[productName=A, id=ac8007b8], 
+NP16[productName=A, id=b22596b3], 
+NP17[productName=A, id=6722ab94], 
+NP20[productName=A, id=d7e85646], 
+NP22[productName=A, id=ee6684b7], 
+NP23[productName=A, id=5fdf70ca]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD33, Total earned from the buyer depot: 14 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD2"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot CD33: 3
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP1[productName=A, id=773fb1c], 
+NP15[productName=A, id=3fcad6fb], 
+NP18[productName=A, id=b34452aa]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD24, Total earned from the buyer depot: 46 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD2"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot BD24: 11
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP3[productName=A, id=943aacc3], 
+NP4[productName=A, id=4c1850b1], 
+NP19[productName=A, id=9b269a00], 
+NP10[productName=A, id=9d4f7ec], 
+NP21[productName=A, id=b9469dd2], 
+NP6[productName=A, id=6e15188d], 
+NP24[productName=A, id=93b4ba4], 
+NP14[productName=A, id=2059ef68], 
+NP25[productName=A, id=69fe72c1], 
+NP2[productName=A, id=1b676189], 
+NP9[productName=A, id=36107dd1]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD37, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD37
+x -> native product price: 4
+y -> # of native product sold: 0
+z -> native product delivery price: 8
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD3, Total paid: 65 (x * y + z)
+
+The native product info at the seller depot CD3
+x -> native product price: 7
+y -> # of native product sold: 9
+z -> native product delivery price: 2
+
+externalProductII=[
+NP4[productName=C, id=b3827cc6], 
+NP36[productName=C, id=bd9eb03c], 
+NP18[productName=C, id=6c5b26e9], 
+NP14[productName=C, id=ec45e26a], 
+NP25[productName=C, id=529c5e08], 
+NP17[productName=C, id=3310378d], 
+NP5[productName=C, id=9fb67606], 
+NP33[productName=C, id=1d319c04], 
+NP15[productName=C, id=35b2ec24]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD3, intialCash=59, currentCash=79, initial # of native products=26
+
+<The default native products price info at THIS depot>
+price=7, deliveryPrice=8
+
+nativeProduct left=[
+NP2[productName=A, id=ec29950a], 
+NP3[productName=A, id=c2651fcc], 
+NP5[productName=A, id=bdf5aa77], 
+NP7[productName=A, id=71274516], 
+NP8[productName=A, id=9ba168c5], 
+NP9[productName=A, id=1c83fcce], 
+NP10[productName=A, id=8a6a7d84], 
+NP11[productName=A, id=e830a3b5], 
+NP12[productName=A, id=47ac826e], 
+NP13[productName=A, id=94c9f5b7], 
+NP15[productName=A, id=f43b577c], 
+NP16[productName=A, id=40ba5a75], 
+NP17[productName=A, id=1c191aaa], 
+NP19[productName=A, id=7845c7ea], 
+NP25[productName=A, id=1644b66], 
+NP26[productName=A, id=648f450]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD48, Total earned from the buyer depot: 78 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD3"
+x -> native products price: 7
+y -> # of native products sold to the buyer depot BD48: 10
+z -> native products delivery price: 8
+
+nativeProduct sold=[
+NP6[productName=A, id=fef0d894], 
+NP18[productName=A, id=bf875f14], 
+NP1[productName=A, id=40d197ae], 
+NP23[productName=A, id=231bc93a], 
+NP20[productName=A, id=a14b0fe3], 
+NP21[productName=A, id=870998ac], 
+NP14[productName=A, id=a73dac17], 
+NP4[productName=A, id=dfd3cc3], 
+NP22[productName=A, id=bffb7d3f], 
+NP24[productName=A, id=9cc903a1]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD22, Total paid: 17 (x * y + z)
+
+The native product info at the seller depot BD22
+x -> native product price: 4
+y -> # of native product sold: 2
+z -> native product delivery price: 9
+
+externalProduct=[
+NP24[productName=B, id=606d89e4], 
+NP9[productName=B, id=3b2d7226]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD19, Total paid: 41 (x * y + z)
+
+The native product info at the seller depot CD19
+x -> native product price: 2
+y -> # of native product sold: 19
+z -> native product delivery price: 3
+
+externalProductII=[
+NP5[productName=C, id=7e814802], 
+NP10[productName=C, id=7f527aa6], 
+NP3[productName=C, id=3363a222], 
+NP14[productName=C, id=5c841f58], 
+NP20[productName=C, id=a571f739], 
+NP1[productName=C, id=e059816], 
+NP25[productName=C, id=382138d0], 
+NP19[productName=C, id=7af5998c], 
+NP9[productName=C, id=60eea98a], 
+NP12[productName=C, id=ae85b4e8], 
+NP11[productName=C, id=806fd28f], 
+NP34[productName=C, id=c5184803], 
+NP29[productName=C, id=853fab23], 
+NP33[productName=C, id=66de2aac], 
+NP23[productName=C, id=2ebf400f], 
+NP37[productName=C, id=cae9b2a0], 
+NP2[productName=C, id=e689041e], 
+NP31[productName=C, id=7b8cf1a], 
+NP39[productName=C, id=65f2a91b]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD4, intialCash=69, currentCash=50, initial # of native products=33
+
+<The default native products price info at THIS depot>
+price=2, deliveryPrice=3
+
+nativeProduct left=[
+NP3[productName=A, id=8fa9dc86], 
+NP5[productName=A, id=54975c33], 
+NP7[productName=A, id=be19d236], 
+NP9[productName=A, id=a9db43e3], 
+NP11[productName=A, id=1f04c584], 
+NP15[productName=A, id=289bd145], 
+NP16[productName=A, id=375c4d73], 
+NP18[productName=A, id=db757bd3], 
+NP23[productName=A, id=e5addb4e], 
+NP26[productName=A, id=df0208cf], 
+NP28[productName=A, id=d1072]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD36, Total earned from the buyer depot: 15 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD4"
+x -> native products price: 2
+y -> # of native products sold to the buyer depot CD36: 6
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP24[productName=A, id=b9312cbc], 
+NP8[productName=A, id=45e7de74], 
+NP22[productName=A, id=2efaeb9c], 
+NP19[productName=A, id=959dd9a2], 
+NP32[productName=A, id=93c3949f], 
+NP10[productName=A, id=134c577e]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD12, Total earned from the buyer depot: 35 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD4"
+x -> native products price: 2
+y -> # of native products sold to the buyer depot BD12: 16
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP14[productName=A, id=e794d4d5], 
+NP4[productName=A, id=474216ff], 
+NP12[productName=A, id=241477d2], 
+NP25[productName=A, id=10d4b615], 
+NP21[productName=A, id=b90392a1], 
+NP20[productName=A, id=64915559], 
+NP1[productName=A, id=cb8c0dd], 
+NP6[productName=A, id=888c266f], 
+NP31[productName=A, id=986a2dc6], 
+NP27[productName=A, id=6746b2f], 
+NP29[productName=A, id=b3347ffc], 
+NP13[productName=A, id=4d0951a6], 
+NP30[productName=A, id=e41130fa], 
+NP17[productName=A, id=54223236], 
+NP2[productName=A, id=af6aca90], 
+NP33[productName=A, id=4fb77a13]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD31, Total paid: 20 (x * y + z)
+
+The native product info at the seller depot BD31
+x -> native product price: 1
+y -> # of native product sold: 19
+z -> native product delivery price: 1
+
+externalProduct=[
+NP16[productName=B, id=df42032], 
+NP3[productName=B, id=4cb70585], 
+NP8[productName=B, id=d4e48d44], 
+NP21[productName=B, id=72c444fc], 
+NP22[productName=B, id=1c796618], 
+NP6[productName=B, id=d5184733], 
+NP14[productName=B, id=bf3f4b46], 
+NP2[productName=B, id=b61cb4b7], 
+NP7[productName=B, id=4cdb6474], 
+NP13[productName=B, id=4f5c7202], 
+NP9[productName=B, id=74bdd07d], 
+NP18[productName=B, id=9d15bb24], 
+NP12[productName=B, id=61b305a0], 
+NP5[productName=B, id=d43125b1], 
+NP11[productName=B, id=24ee46b0], 
+NP19[productName=B, id=a2d67ffd], 
+NP20[productName=B, id=39bbb555], 
+NP1[productName=B, id=f0dd56e2], 
+NP4[productName=B, id=fea63225]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD35, Total paid: 49 (x * y + z)
+
+The native product info at the seller depot CD35
+x -> native product price: 3
+y -> # of native product sold: 15
+z -> native product delivery price: 4
+
+externalProductII=[
+NP13[productName=C, id=5488146d], 
+NP1[productName=C, id=97f35ec0], 
+NP10[productName=C, id=cf4f4335], 
+NP4[productName=C, id=53aa2abf], 
+NP12[productName=C, id=73f08e03], 
+NP9[productName=C, id=28dd04f0], 
+NP15[productName=C, id=8aa1a995], 
+NP8[productName=C, id=afbdfe5e], 
+NP7[productName=C, id=bdf50971], 
+NP5[productName=C, id=4cdf6e6b], 
+NP14[productName=C, id=892abf57], 
+NP2[productName=C, id=77c9d77d], 
+NP11[productName=C, id=89fd6c50], 
+NP6[productName=C, id=2c960144], 
+NP3[productName=C, id=b15a4996]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD5, intialCash=60, currentCash=43, initial # of native products=32
+
+<The default native products price info at THIS depot>
+price=1, deliveryPrice=3
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD15, Total earned from the buyer depot: 14 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD5"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot CD15: 11
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP17[productName=A, id=98c36be0], 
+NP23[productName=A, id=5ecc611e], 
+NP31[productName=A, id=dd4e963e], 
+NP27[productName=A, id=d5beadb6], 
+NP10[productName=A, id=7fa19105], 
+NP9[productName=A, id=a690c0f], 
+NP3[productName=A, id=53b4cc99], 
+NP1[productName=A, id=9c09580d], 
+NP18[productName=A, id=3dd965b9], 
+NP16[productName=A, id=22ef3bc9], 
+NP20[productName=A, id=faed5deb]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD22, Total earned from the buyer depot: 24 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD5"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot BD22: 21
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP15[productName=A, id=f8292d75], 
+NP25[productName=A, id=2d2412b1], 
+NP32[productName=A, id=6e22e770], 
+NP14[productName=A, id=fedb9950], 
+NP30[productName=A, id=bb1ddde9], 
+NP8[productName=A, id=9ca3f46b], 
+NP26[productName=A, id=dfd53e01], 
+NP28[productName=A, id=a14889a5], 
+NP6[productName=A, id=494ec4f9], 
+NP22[productName=A, id=2248adb6], 
+NP2[productName=A, id=d3da6237], 
+NP21[productName=A, id=f6d7a668], 
+NP24[productName=A, id=4c473e70], 
+NP13[productName=A, id=919855ab], 
+NP4[productName=A, id=d015b456], 
+NP12[productName=A, id=7c10c174], 
+NP7[productName=A, id=79ea296f], 
+NP29[productName=A, id=67f6211b], 
+NP19[productName=A, id=b8547a7a], 
+NP11[productName=A, id=3fdb4660], 
+NP5[productName=A, id=c53a41b0]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD17, Total paid: 44 (x * y + z)
+
+The native product info at the seller depot BD17
+x -> native product price: 6
+y -> # of native product sold: 7
+z -> native product delivery price: 2
+
+externalProduct=[
+NP1[productName=B, id=a161ddad], 
+NP13[productName=B, id=fe67b62c], 
+NP4[productName=B, id=3b323fda], 
+NP10[productName=B, id=f27b1a8a], 
+NP23[productName=B, id=8526c8c8], 
+NP11[productName=B, id=9f254b8], 
+NP39[productName=B, id=ee908d2a]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD4, Total paid: 11 (x * y + z)
+
+The native product info at the seller depot CD4
+x -> native product price: 1
+y -> # of native product sold: 5
+z -> native product delivery price: 6
+
+externalProductII=[
+NP40[productName=C, id=f6108837], 
+NP47[productName=C, id=edd09098], 
+NP7[productName=C, id=1810412b], 
+NP26[productName=C, id=22b733ac], 
+NP28[productName=C, id=d36aa4bf]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD6, intialCash=51, currentCash=38, initial # of native products=18
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=7
+
+nativeProduct left=[
+NP1[productName=A, id=47212917], 
+NP4[productName=A, id=e2093717], 
+NP5[productName=A, id=224faf5c], 
+NP7[productName=A, id=5fbcd0bd], 
+NP8[productName=A, id=a51c3ed0], 
+NP9[productName=A, id=96dd9293], 
+NP10[productName=A, id=78bfe316], 
+NP12[productName=A, id=afecb4f5], 
+NP13[productName=A, id=98972739], 
+NP15[productName=A, id=7f5b203e], 
+NP16[productName=A, id=4771f7af], 
+NP17[productName=A, id=39a7a2c6]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD49, Total earned from the buyer depot: 37 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD6"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD49: 6
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP3[productName=A, id=6509189b], 
+NP11[productName=A, id=d5fba24d], 
+NP18[productName=A, id=b06ffede], 
+NP6[productName=A, id=b6d62142], 
+NP2[productName=A, id=b59850de], 
+NP14[productName=A, id=230721b5]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD33, Total paid: 35 (x * y + z)
+
+The native product info at the seller depot BD33
+x -> native product price: 3
+y -> # of native product sold: 9
+z -> native product delivery price: 8
+
+externalProduct=[
+NP9[productName=B, id=88f9bb15], 
+NP5[productName=B, id=15fc726c], 
+NP4[productName=B, id=d65ed307], 
+NP18[productName=B, id=df5e9b94], 
+NP11[productName=B, id=81acea71], 
+NP7[productName=B, id=be355019], 
+NP20[productName=B, id=ff48500f], 
+NP2[productName=B, id=eb940afc], 
+NP15[productName=B, id=41af9fe]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD30, Total paid: 15 (x * y + z)
+
+The native product info at the seller depot CD30
+x -> native product price: 2
+y -> # of native product sold: 6
+z -> native product delivery price: 3
+
+externalProductII=[
+NP13[productName=C, id=dbecdf7c], 
+NP4[productName=C, id=e82f66f8], 
+NP26[productName=C, id=2ed5784a], 
+NP34[productName=C, id=165f15e2], 
+NP36[productName=C, id=29b62257], 
+NP30[productName=C, id=ebe49356]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD7, intialCash=62, currentCash=40, initial # of native products=37
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=8
+
+nativeProduct left=[
+NP1[productName=A, id=b87487f7], 
+NP2[productName=A, id=c7319e4d], 
+NP3[productName=A, id=672be8f8], 
+NP4[productName=A, id=4a255dbd], 
+NP5[productName=A, id=7997b77e], 
+NP6[productName=A, id=71e0cb97], 
+NP7[productName=A, id=34fdd259], 
+NP8[productName=A, id=49a6b661], 
+NP10[productName=A, id=d164748c], 
+NP13[productName=A, id=7c449995], 
+NP14[productName=A, id=2afe40d6], 
+NP15[productName=A, id=721e3ea3], 
+NP16[productName=A, id=e1367ec9], 
+NP17[productName=A, id=e71da66b], 
+NP18[productName=A, id=fb38f124], 
+NP19[productName=A, id=b27bb3a8], 
+NP20[productName=A, id=1886d674], 
+NP21[productName=A, id=66769fcc], 
+NP22[productName=A, id=178ce083], 
+NP23[productName=A, id=f2c9d644], 
+NP24[productName=A, id=a9dc224a], 
+NP25[productName=A, id=e379519b], 
+NP26[productName=A, id=e50ca24e], 
+NP27[productName=A, id=40138143], 
+NP28[productName=A, id=45d20c79], 
+NP29[productName=A, id=5d0c9c09], 
+NP30[productName=A, id=226ce85c], 
+NP31[productName=A, id=9410e22e], 
+NP32[productName=A, id=9a470190], 
+NP33[productName=A, id=1ae3c9c4], 
+NP34[productName=A, id=4a172b26], 
+NP35[productName=A, id=b5282862], 
+NP36[productName=A, id=18e9204d]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD17, Total earned from the buyer depot: 40 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD7"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot BD17: 4
+z -> native products delivery price: 8
+
+nativeProduct sold=[
+NP12[productName=A, id=743380cf], 
+NP37[productName=A, id=defd5743], 
+NP9[productName=A, id=ca2344f6], 
+NP11[productName=A, id=6464305b]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD3, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD3
+x -> native product price: 4
+y -> # of native product sold: 0
+z -> native product delivery price: 7
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD45, Total paid: 62 (x * y + z)
+
+The native product info at the seller depot CD45
+x -> native product price: 4
+y -> # of native product sold: 14
+z -> native product delivery price: 6
+
+externalProductII=[
+NP21[productName=C, id=e4c39d42], 
+NP19[productName=C, id=37fce71c], 
+NP31[productName=C, id=d6c5e07], 
+NP15[productName=C, id=f9de3eb], 
+NP10[productName=C, id=b7299c1], 
+NP1[productName=C, id=40d6a969], 
+NP12[productName=C, id=bad3ef22], 
+NP7[productName=C, id=cade0636], 
+NP11[productName=C, id=d1e7e2ef], 
+NP26[productName=C, id=a43ce608], 
+NP18[productName=C, id=cf9e2d9], 
+NP16[productName=C, id=4ce25b26], 
+NP33[productName=C, id=539cb86d], 
+NP23[productName=C, id=c6b89ef7]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD8, intialCash=83, currentCash=112, initial # of native products=36
+
+<The default native products price info at THIS depot>
+price=7, deliveryPrice=7
+
+nativeProduct left=[
+NP1[productName=A, id=7155c518], 
+NP3[productName=A, id=7d1787c1], 
+NP4[productName=A, id=c4790649], 
+NP5[productName=A, id=f919961e], 
+NP7[productName=A, id=9d948efc], 
+NP11[productName=A, id=f389d039], 
+NP13[productName=A, id=11e532e5], 
+NP15[productName=A, id=e94c6660], 
+NP16[productName=A, id=58d7a4e9], 
+NP18[productName=A, id=f34e766d], 
+NP19[productName=A, id=c366fdcd], 
+NP20[productName=A, id=cd20b086], 
+NP21[productName=A, id=9024ec19], 
+NP23[productName=A, id=6770bdc2], 
+NP24[productName=A, id=1738c69b], 
+NP25[productName=A, id=4e6eb146], 
+NP26[productName=A, id=18c08f2a], 
+NP29[productName=A, id=82989889], 
+NP32[productName=A, id=2d26379b], 
+NP33[productName=A, id=949dc098], 
+NP35[productName=A, id=35b30615], 
+NP36[productName=A, id=866a4af4]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD11, Total earned from the buyer depot: 105 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD8"
+x -> native products price: 7
+y -> # of native products sold to the buyer depot CD11: 14
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP6[productName=A, id=93066677], 
+NP9[productName=A, id=f5ed53dd], 
+NP31[productName=A, id=9518dd96], 
+NP2[productName=A, id=db092d29], 
+NP30[productName=A, id=15187114], 
+NP27[productName=A, id=1d56efdc], 
+NP22[productName=A, id=48da53e6], 
+NP28[productName=A, id=e1a5133c], 
+NP14[productName=A, id=6d0580b5], 
+NP17[productName=A, id=dbe4050c], 
+NP10[productName=A, id=a1e20ce6], 
+NP12[productName=A, id=171fc995], 
+NP8[productName=A, id=e97b3850], 
+NP34[productName=A, id=b1c9e9d5]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD26, Total paid: 50 (x * y + z)
+
+The native product info at the seller depot BD26
+x -> native product price: 8
+y -> # of native product sold: 6
+z -> native product delivery price: 2
+
+externalProduct=[
+NP4[productName=B, id=e5dd1b53], 
+NP3[productName=B, id=3b530e1f], 
+NP7[productName=B, id=7d5dde93], 
+NP16[productName=B, id=17ce4caa], 
+NP6[productName=B, id=f8dc10b3], 
+NP1[productName=B, id=701e15a0]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD7, Total paid: 26 (x * y + z)
+
+The native product info at the seller depot CD7
+x -> native product price: 6
+y -> # of native product sold: 3
+z -> native product delivery price: 8
+
+externalProductII=[
+NP30[productName=C, id=7e162a34], 
+NP23[productName=C, id=a46cb311], 
+NP9[productName=C, id=39fff4ff]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD9, intialCash=84, currentCash=183, initial # of native products=37
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=3
+
+nativeProduct left=[
+NP4[productName=A, id=39836fa], 
+NP7[productName=A, id=ba788894], 
+NP10[productName=A, id=1800ac9d], 
+NP11[productName=A, id=211c1a3], 
+NP12[productName=A, id=a6d29deb], 
+NP13[productName=A, id=e223d8f9], 
+NP17[productName=A, id=52ca224], 
+NP18[productName=A, id=ffc990d7], 
+NP21[productName=A, id=fe04a7b2], 
+NP22[productName=A, id=5566c4bf], 
+NP24[productName=A, id=5c9c96b4], 
+NP25[productName=A, id=b7cf3015], 
+NP31[productName=A, id=a3319739], 
+NP34[productName=A, id=c98e3326], 
+NP36[productName=A, id=c7fdafdf]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD38, Total earned from the buyer depot: 179 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD9"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot BD38: 22
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP15[productName=A, id=d4f2b01d], 
+NP16[productName=A, id=a8553c75], 
+NP33[productName=A, id=72d1cdd8], 
+NP20[productName=A, id=5af06144], 
+NP27[productName=A, id=cdfedc23], 
+NP28[productName=A, id=63ce0e81], 
+NP26[productName=A, id=b19f8445], 
+NP9[productName=A, id=a9d67577], 
+NP1[productName=A, id=3da84930], 
+NP30[productName=A, id=e3667bf7], 
+NP19[productName=A, id=de6c5816], 
+NP35[productName=A, id=d863aad5], 
+NP29[productName=A, id=c229a814], 
+NP8[productName=A, id=a775b4b3], 
+NP6[productName=A, id=1cafa8f0], 
+NP3[productName=A, id=f43274d0], 
+NP23[productName=A, id=7e23a8d3], 
+NP5[productName=A, id=1db3b643], 
+NP32[productName=A, id=3b8a60c5], 
+NP2[productName=A, id=25107532], 
+NP14[productName=A, id=5510b85d], 
+NP37[productName=A, id=909c5890]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD47, Total paid: 42 (x * y + z)
+
+The native product info at the seller depot BD47
+x -> native product price: 5
+y -> # of native product sold: 7
+z -> native product delivery price: 7
+
+externalProduct=[
+NP30[productName=B, id=14ca7e50], 
+NP5[productName=B, id=80cec311], 
+NP25[productName=B, id=26220a7], 
+NP20[productName=B, id=b69e76b0], 
+NP6[productName=B, id=55e53c9b], 
+NP12[productName=B, id=ca744870], 
+NP23[productName=B, id=f139b794]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD1, Total paid: 38 (x * y + z)
+
+The native product info at the seller depot CD1
+x -> native product price: 4
+y -> # of native product sold: 9
+z -> native product delivery price: 2
+
+externalProductII=[
+NP18[productName=C, id=2e1d84e9], 
+NP7[productName=C, id=5f362773], 
+NP11[productName=C, id=6f85c12a], 
+NP3[productName=C, id=a1a90c0b], 
+NP13[productName=C, id=9598b69b], 
+NP2[productName=C, id=5c37e4e6], 
+NP1[productName=C, id=e5684c7c], 
+NP16[productName=C, id=a2b31de1], 
+NP19[productName=C, id=1d90da27]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD10, intialCash=67, currentCash=90, initial # of native products=49
+
+<The default native products price info at THIS depot>
+price=6, deliveryPrice=2
+
+nativeProduct left=[
+NP1[productName=A, id=167ddfd6], 
+NP2[productName=A, id=f3148a3b], 
+NP4[productName=A, id=b86f92a0], 
+NP9[productName=A, id=1a20fe7e], 
+NP10[productName=A, id=2999c527], 
+NP11[productName=A, id=c6e7ebf8], 
+NP12[productName=A, id=99a9333f], 
+NP14[productName=A, id=42966dbd], 
+NP15[productName=A, id=2a0cbbde], 
+NP16[productName=A, id=be20fb02], 
+NP17[productName=A, id=ad482eb0], 
+NP18[productName=A, id=7e0b416f], 
+NP19[productName=A, id=93a15e7a], 
+NP20[productName=A, id=9f7faff1], 
+NP21[productName=A, id=3eb06375], 
+NP22[productName=A, id=2de3b350], 
+NP24[productName=A, id=ab5c5c1c], 
+NP25[productName=A, id=b64742bd], 
+NP26[productName=A, id=c6fd3e78], 
+NP27[productName=A, id=f8e0547f], 
+NP28[productName=A, id=a768c9a6], 
+NP30[productName=A, id=39293b5a], 
+NP32[productName=A, id=be793350], 
+NP33[productName=A, id=657ffad3], 
+NP38[productName=A, id=66cce0c], 
+NP39[productName=A, id=7381f67], 
+NP40[productName=A, id=10dd66c9], 
+NP41[productName=A, id=bbd1dc29], 
+NP42[productName=A, id=7a24e545], 
+NP43[productName=A, id=e59abec4], 
+NP44[productName=A, id=4e6432d], 
+NP46[productName=A, id=c4994a9e], 
+NP47[productName=A, id=fc62cf2d], 
+NP48[productName=A, id=76f1485e], 
+NP49[productName=A, id=a8bfb819]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD41, Total earned from the buyer depot: 44 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD10"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot CD41: 7
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP31[productName=A, id=23cf0735], 
+NP45[productName=A, id=366af839], 
+NP34[productName=A, id=7485ffa7], 
+NP3[productName=A, id=c7e4e7bc], 
+NP36[productName=A, id=3032270d], 
+NP29[productName=A, id=778567b2], 
+NP7[productName=A, id=32e47a8c]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD7, Total earned from the buyer depot: 44 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD10"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot BD7: 7
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP6[productName=A, id=1e5955f6], 
+NP35[productName=A, id=a2fefd33], 
+NP37[productName=A, id=37c4b989], 
+NP23[productName=A, id=c403b1e3], 
+NP8[productName=A, id=be1c403b], 
+NP13[productName=A, id=1e7e57d6], 
+NP5[productName=A, id=46bfc591]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD10, Total paid: 28 (x * y + z)
+
+The native product info at the seller depot BD10
+x -> native product price: 3
+y -> # of native product sold: 9
+z -> native product delivery price: 1
+
+externalProduct=[
+NP27[productName=B, id=f3a4c90f], 
+NP4[productName=B, id=10c3e86e], 
+NP2[productName=B, id=f5c0b129], 
+NP29[productName=B, id=d830077b], 
+NP30[productName=B, id=591af05f], 
+NP9[productName=B, id=4e73544c], 
+NP21[productName=B, id=e7e68099], 
+NP19[productName=B, id=828ea60e], 
+NP13[productName=B, id=94eaabd2]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD31, Total paid: 37 (x * y + z)
+
+The native product info at the seller depot CD31
+x -> native product price: 4
+y -> # of native product sold: 7
+z -> native product delivery price: 9
+
+externalProductII=[
+NP4[productName=C, id=ca8b7d05], 
+NP1[productName=C, id=72e5fd34], 
+NP13[productName=C, id=2684653d], 
+NP6[productName=C, id=be2214e4], 
+NP12[productName=C, id=c9242598], 
+NP15[productName=C, id=a4123f08], 
+NP10[productName=C, id=ffa5f724]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD11, intialCash=64, currentCash=57, initial # of native products=27
+
+<The default native products price info at THIS depot>
+price=3, deliveryPrice=8
+
+nativeProduct left=[
+NP1[productName=A, id=8d368f27], 
+NP3[productName=A, id=1bf436c0], 
+NP4[productName=A, id=ea35bf0b], 
+NP11[productName=A, id=6d8b2d7d], 
+NP14[productName=A, id=c206a271], 
+NP16[productName=A, id=d18e6097], 
+NP18[productName=A, id=ef68517e], 
+NP19[productName=A, id=8d1059a8], 
+NP21[productName=A, id=50d44782], 
+NP24[productName=A, id=f724be1c], 
+NP25[productName=A, id=fb0b5b0]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD32, Total earned from the buyer depot: 56 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD11"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot CD32: 16
+z -> native products delivery price: 8
+
+nativeProduct sold=[
+NP23[productName=A, id=ad076a4d], 
+NP9[productName=A, id=454b8f6c], 
+NP10[productName=A, id=ae7d9183], 
+NP20[productName=A, id=f9282355], 
+NP5[productName=A, id=c6f26260], 
+NP12[productName=A, id=d2aec704], 
+NP8[productName=A, id=1ea031de], 
+NP2[productName=A, id=c5e6f85b], 
+NP15[productName=A, id=49a18797], 
+NP27[productName=A, id=398354a1], 
+NP26[productName=A, id=feccb685], 
+NP7[productName=A, id=a2dc1684], 
+NP6[productName=A, id=37f0591c], 
+NP22[productName=A, id=2e4c9724], 
+NP13[productName=A, id=39438dc0], 
+NP17[productName=A, id=453a3a2a]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD49, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD49
+x -> native product price: 8
+y -> # of native product sold: 0
+z -> native product delivery price: 9
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD10, Total paid: 63 (x * y + z)
+
+The native product info at the seller depot CD10
+x -> native product price: 6
+y -> # of native product sold: 10
+z -> native product delivery price: 3
+
+externalProductII=[
+NP36[productName=C, id=61cdf844], 
+NP15[productName=C, id=ab81d78b], 
+NP8[productName=C, id=9b537ac3], 
+NP18[productName=C, id=470f61ae], 
+NP27[productName=C, id=81b8bfe5], 
+NP23[productName=C, id=151c8010], 
+NP33[productName=C, id=66a704cd], 
+NP30[productName=C, id=8747bfed], 
+NP13[productName=C, id=3f4c88bc], 
+NP24[productName=C, id=7191bbf9]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD12, intialCash=56, currentCash=61, initial # of native products=19
+
+<The default native products price info at THIS depot>
+price=3, deliveryPrice=4
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD46, Total earned from the buyer depot: 61 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD12"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot CD46: 19
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP15[productName=A, id=a28ba3cd], 
+NP16[productName=A, id=3e075492], 
+NP17[productName=A, id=1ac55e1b], 
+NP14[productName=A, id=90b150f9], 
+NP8[productName=A, id=e42cc0e0], 
+NP7[productName=A, id=52018e0c], 
+NP5[productName=A, id=4a80147e], 
+NP13[productName=A, id=11649e9c], 
+NP18[productName=A, id=d6a5467e], 
+NP11[productName=A, id=5a7cd220], 
+NP6[productName=A, id=e349853a], 
+NP3[productName=A, id=343e6c76], 
+NP2[productName=A, id=d54e8913], 
+NP4[productName=A, id=570baee9], 
+NP19[productName=A, id=8ae08800], 
+NP1[productName=A, id=d9ee9bd6], 
+NP12[productName=A, id=8cfb8ba1], 
+NP10[productName=A, id=c59433a8], 
+NP9[productName=A, id=1b0021dc]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD38, Total paid: 17 (x * y + z)
+
+The native product info at the seller depot BD38
+x -> native product price: 8
+y -> # of native product sold: 1
+z -> native product delivery price: 9
+
+externalProduct=[
+NP22[productName=B, id=9c2e63ef]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD49, Total paid: 39 (x * y + z)
+
+The native product info at the seller depot CD49
+x -> native product price: 9
+y -> # of native product sold: 4
+z -> native product delivery price: 3
+
+externalProductII=[
+NP19[productName=C, id=b7ea58e2], 
+NP10[productName=C, id=7b00bd01], 
+NP3[productName=C, id=5f526f11], 
+NP14[productName=C, id=acb5cf7d]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD13, intialCash=68, currentCash=34, initial # of native products=19
+
+<The default native products price info at THIS depot>
+price=1, deliveryPrice=9
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD19, Total earned from the buyer depot: 28 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD13"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot CD19: 19
+z -> native products delivery price: 9
+
+nativeProduct sold=[
+NP10[productName=A, id=7489efd6], 
+NP6[productName=A, id=1bf784f8], 
+NP4[productName=A, id=32ffed2d], 
+NP15[productName=A, id=8d336860], 
+NP19[productName=A, id=52d280dd], 
+NP3[productName=A, id=5c205dfb], 
+NP9[productName=A, id=7a0da8f2], 
+NP5[productName=A, id=32d5eb99], 
+NP17[productName=A, id=e68da16], 
+NP12[productName=A, id=4589e2a6], 
+NP16[productName=A, id=16609f54], 
+NP8[productName=A, id=3278937c], 
+NP13[productName=A, id=99101bb9], 
+NP1[productName=A, id=eb3d74ad], 
+NP7[productName=A, id=414ea85a], 
+NP2[productName=A, id=230e0b47], 
+NP18[productName=A, id=4e65d543], 
+NP14[productName=A, id=34ef3759], 
+NP11[productName=A, id=269903fc]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD11, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD11
+x -> native product price: 5
+y -> # of native product sold: 0
+z -> native product delivery price: 9
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD28, Total paid: 62 (x * y + z)
+
+The native product info at the seller depot CD28
+x -> native product price: 8
+y -> # of native product sold: 7
+z -> native product delivery price: 6
+
+externalProductII=[
+NP10[productName=C, id=6f3529c8], 
+NP4[productName=C, id=6b6d2ef3], 
+NP2[productName=C, id=1aef7b24], 
+NP5[productName=C, id=2077b1f3], 
+NP11[productName=C, id=27abb401], 
+NP7[productName=C, id=5ae77968], 
+NP16[productName=C, id=549640df]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD14, intialCash=79, currentCash=51, initial # of native products=20
+
+<The default native products price info at THIS depot>
+price=2, deliveryPrice=2
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD2, Total earned from the buyer depot: 36 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD14"
+x -> native products price: 2
+y -> # of native products sold to the buyer depot CD2: 17
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP4[productName=A, id=5d972b7e], 
+NP11[productName=A, id=28b5ece0], 
+NP7[productName=A, id=661c98be], 
+NP18[productName=A, id=9ef062e9], 
+NP9[productName=A, id=6dba0edf], 
+NP10[productName=A, id=582e736c], 
+NP6[productName=A, id=caaf4c84], 
+NP17[productName=A, id=d1e6d562], 
+NP12[productName=A, id=38eabe4b], 
+NP20[productName=A, id=c71544a9], 
+NP8[productName=A, id=d4be040d], 
+NP14[productName=A, id=87fced11], 
+NP3[productName=A, id=9b38551f], 
+NP15[productName=A, id=64cd24f7], 
+NP13[productName=A, id=8231e464], 
+NP16[productName=A, id=9b8241fe], 
+NP19[productName=A, id=e8d4439d]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD3, Total earned from the buyer depot: 8 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD14"
+x -> native products price: 2
+y -> # of native products sold to the buyer depot BD3: 3
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP5[productName=A, id=3a909be0], 
+NP1[productName=A, id=8bad21c6], 
+NP2[productName=A, id=60e9d1e5]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD27, Total paid: 50 (x * y + z)
+
+The native product info at the seller depot BD27
+x -> native product price: 8
+y -> # of native product sold: 6
+z -> native product delivery price: 2
+
+externalProduct=[
+NP5[productName=B, id=8b98981d], 
+NP44[productName=B, id=d7bfee16], 
+NP2[productName=B, id=73198082], 
+NP14[productName=B, id=787d3335], 
+NP16[productName=B, id=1f853c35], 
+NP8[productName=B, id=625c0f36]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD13, Total paid: 22 (x * y + z)
+
+The native product info at the seller depot CD13
+x -> native product price: 1
+y -> # of native product sold: 14
+z -> native product delivery price: 8
+
+externalProductII=[
+NP29[productName=C, id=ad5b9b46], 
+NP11[productName=C, id=2d6c2893], 
+NP26[productName=C, id=ef7552a9], 
+NP19[productName=C, id=65f8a3ec], 
+NP20[productName=C, id=26e56b10], 
+NP18[productName=C, id=65f70f0b], 
+NP7[productName=C, id=ffc08d7d], 
+NP9[productName=C, id=d5119b96], 
+NP31[productName=C, id=ea02f5c4], 
+NP17[productName=C, id=2014c40d], 
+NP28[productName=C, id=8e47a4ae], 
+NP5[productName=C, id=1a1d0a58], 
+NP2[productName=C, id=89849d86], 
+NP22[productName=C, id=d1086183]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD15, intialCash=66, currentCash=89, initial # of native products=16
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=2
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD47, Total earned from the buyer depot: 82 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD15"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD47: 16
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP2[productName=A, id=1fe2f62e], 
+NP15[productName=A, id=53747754], 
+NP6[productName=A, id=452efce4], 
+NP8[productName=A, id=720c3c20], 
+NP5[productName=A, id=782d283c], 
+NP12[productName=A, id=bcdc1206], 
+NP1[productName=A, id=9718e782], 
+NP11[productName=A, id=c375f0b1], 
+NP13[productName=A, id=4e4ee566], 
+NP10[productName=A, id=791149e9], 
+NP9[productName=A, id=aa0288e], 
+NP3[productName=A, id=198b822b], 
+NP14[productName=A, id=b38e71de], 
+NP4[productName=A, id=c8f6857b], 
+NP7[productName=A, id=b239ad90], 
+NP16[productName=A, id=2957757c]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD34, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD34
+x -> native product price: 1
+y -> # of native product sold: 0
+z -> native product delivery price: 9
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD16, Total paid: 59 (x * y + z)
+
+The native product info at the seller depot CD16
+x -> native product price: 8
+y -> # of native product sold: 7
+z -> native product delivery price: 3
+
+externalProductII=[
+NP6[productName=C, id=61d2a0ca], 
+NP23[productName=C, id=afe9a359], 
+NP11[productName=C, id=2d0f20cb], 
+NP8[productName=C, id=88c085a8], 
+NP7[productName=C, id=5db68fe], 
+NP17[productName=C, id=66a6748b], 
+NP31[productName=C, id=98387ae2]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD16, intialCash=96, currentCash=8, initial # of native products=36
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=1
+
+nativeProduct left=[
+NP1[productName=A, id=a7a0e55], 
+NP2[productName=A, id=76627d3a], 
+NP3[productName=A, id=5c411fd6], 
+NP4[productName=A, id=b2d9aeef], 
+NP6[productName=A, id=5ce650af], 
+NP7[productName=A, id=2ee462b3], 
+NP8[productName=A, id=a5412fa7], 
+NP9[productName=A, id=a9caa4e3], 
+NP10[productName=A, id=6ca0dc58], 
+NP11[productName=A, id=70753615], 
+NP12[productName=A, id=f6369b06], 
+NP13[productName=A, id=bd259bfc], 
+NP14[productName=A, id=ea168a54], 
+NP15[productName=A, id=956e53df], 
+NP16[productName=A, id=cee9ba0f], 
+NP17[productName=A, id=b2d6fb74], 
+NP18[productName=A, id=b2cb5206], 
+NP19[productName=A, id=922efad9], 
+NP20[productName=A, id=4cb8a565], 
+NP21[productName=A, id=8e36b580], 
+NP22[productName=A, id=4e149224], 
+NP23[productName=A, id=c8fb7456], 
+NP24[productName=A, id=7bf82ab5], 
+NP25[productName=A, id=82482448], 
+NP26[productName=A, id=bec09fb6], 
+NP27[productName=A, id=33718047], 
+NP28[productName=A, id=7d1c6ea], 
+NP29[productName=A, id=6d60d786], 
+NP30[productName=A, id=8877bb25], 
+NP31[productName=A, id=4819b913], 
+NP32[productName=A, id=43305269], 
+NP33[productName=A, id=7e041ed5], 
+NP34[productName=A, id=fcf91f8], 
+NP35[productName=A, id=a1820918], 
+NP36[productName=A, id=cdae5852]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD29, Total earned from the buyer depot: 6 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD16"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD29: 1
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP5[productName=A, id=61b5eddf]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD12, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD12
+x -> native product price: 5
+y -> # of native product sold: 0
+z -> native product delivery price: 7
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD40, Total paid: 94 (x * y + z)
+
+The native product info at the seller depot CD40
+x -> native product price: 9
+y -> # of native product sold: 10
+z -> native product delivery price: 4
+
+externalProductII=[
+NP19[productName=C, id=d8ba69c5], 
+NP21[productName=C, id=9d261283], 
+NP13[productName=C, id=4f577137], 
+NP12[productName=C, id=fabdcb1c], 
+NP23[productName=C, id=b7e93975], 
+NP9[productName=C, id=707a1074], 
+NP24[productName=C, id=51dc7e2a], 
+NP2[productName=C, id=fe94215e], 
+NP20[productName=C, id=50211c16], 
+NP5[productName=C, id=6c035b9f]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD17, intialCash=96, currentCash=61, initial # of native products=32
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=6
+
+nativeProduct left=[
+NP1[productName=A, id=dd3e210e], 
+NP2[productName=A, id=2b373ac0], 
+NP3[productName=A, id=f6fff23f], 
+NP4[productName=A, id=3166833], 
+NP5[productName=A, id=80f8c26], 
+NP6[productName=A, id=3ed924f6], 
+NP7[productName=A, id=21e75260], 
+NP12[productName=A, id=77b853b9], 
+NP13[productName=A, id=b30a063], 
+NP16[productName=A, id=ef64ca70], 
+NP18[productName=A, id=674e93d9], 
+NP19[productName=A, id=91afd8df], 
+NP20[productName=A, id=f5ca55ea], 
+NP21[productName=A, id=128d625c], 
+NP22[productName=A, id=3a4b26be], 
+NP23[productName=A, id=220c0b06], 
+NP26[productName=A, id=9f86c5d8], 
+NP27[productName=A, id=7d511c6c], 
+NP28[productName=A, id=8b3375d2], 
+NP31[productName=A, id=6705b5e0], 
+NP32[productName=A, id=b291bf59]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD42, Total earned from the buyer depot: 61 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD17"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD42: 11
+z -> native products delivery price: 6
+
+nativeProduct sold=[
+NP24[productName=A, id=2b53a1ea], 
+NP30[productName=A, id=d26125e5], 
+NP29[productName=A, id=1bd3c80f], 
+NP25[productName=A, id=f812b783], 
+NP9[productName=A, id=5c37cda0], 
+NP14[productName=A, id=8b8bd490], 
+NP11[productName=A, id=9cf166b4], 
+NP8[productName=A, id=957990d1], 
+NP10[productName=A, id=44e1f52b], 
+NP15[productName=A, id=7fcef2fe], 
+NP17[productName=A, id=7c91a17b]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD48, Total paid: 3 (x * y + z)
+
+The native product info at the seller depot BD48
+x -> native product price: 1
+y -> # of native product sold: 1
+z -> native product delivery price: 2
+
+externalProduct=[
+NP5[productName=B, id=73d08a8a]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD9, Total paid: 93 (x * y + z)
+
+The native product info at the seller depot CD9
+x -> native product price: 8
+y -> # of native product sold: 11
+z -> native product delivery price: 5
+
+externalProductII=[
+NP13[productName=C, id=d882dcf], 
+NP17[productName=C, id=476fdbc6], 
+NP2[productName=C, id=c10877c], 
+NP9[productName=C, id=ef52ae57], 
+NP6[productName=C, id=72d2359], 
+NP18[productName=C, id=45829b6f], 
+NP3[productName=C, id=c8826d4b], 
+NP14[productName=C, id=ef35aee7], 
+NP4[productName=C, id=40cd939e], 
+NP1[productName=C, id=229ca02e], 
+NP7[productName=C, id=51b1643d]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD18, intialCash=56, currentCash=50, initial # of native products=36
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=2
+
+nativeProduct left=[
+NP1[productName=A, id=484c8dfe], 
+NP2[productName=A, id=5fb5f26b], 
+NP3[productName=A, id=91631577], 
+NP4[productName=A, id=57bb0296], 
+NP5[productName=A, id=82397e8a], 
+NP6[productName=A, id=d24d901b], 
+NP8[productName=A, id=ef971919], 
+NP9[productName=A, id=7a221d9b], 
+NP10[productName=A, id=358e6fd5], 
+NP11[productName=A, id=12fccdfb], 
+NP12[productName=A, id=7297b5f5], 
+NP15[productName=A, id=59c7586c], 
+NP16[productName=A, id=32b48148], 
+NP17[productName=A, id=fc83cd0f], 
+NP19[productName=A, id=ea20acfb], 
+NP20[productName=A, id=4ce60dc1], 
+NP21[productName=A, id=d0683e09], 
+NP22[productName=A, id=d849ebfa], 
+NP23[productName=A, id=6a1d3172], 
+NP24[productName=A, id=13ade798], 
+NP25[productName=A, id=49b3d3b3], 
+NP26[productName=A, id=d12e0cd1], 
+NP27[productName=A, id=a67c9fc8], 
+NP28[productName=A, id=a31aae4f], 
+NP29[productName=A, id=2216d5a3], 
+NP30[productName=A, id=a1c589cf], 
+NP31[productName=A, id=8dd75e85], 
+NP33[productName=A, id=2393c556], 
+NP35[productName=A, id=d08f6252], 
+NP36[productName=A, id=a3b7aea9]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD5, Total earned from the buyer depot: 50 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD18"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot CD5: 6
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP34[productName=A, id=a5b75e5e], 
+NP7[productName=A, id=ca7e0d58], 
+NP14[productName=A, id=1d4c01a1], 
+NP18[productName=A, id=1ff65684], 
+NP32[productName=A, id=c080b418], 
+NP13[productName=A, id=f33f0db2]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD13, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD13
+x -> native product price: 9
+y -> # of native product sold: 0
+z -> native product delivery price: 2
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD39, Total paid: 56 (x * y + z)
+
+The native product info at the seller depot CD39
+x -> native product price: 3
+y -> # of native product sold: 17
+z -> native product delivery price: 5
+
+externalProductII=[
+NP6[productName=C, id=eaed48e], 
+NP21[productName=C, id=17783a7c], 
+NP4[productName=C, id=3cf888a1], 
+NP23[productName=C, id=de41943f], 
+NP31[productName=C, id=29fc3ede], 
+NP9[productName=C, id=95a9d6df], 
+NP16[productName=C, id=956adf59], 
+NP37[productName=C, id=c5f85bb3], 
+NP14[productName=C, id=664a31ba], 
+NP5[productName=C, id=40f8f374], 
+NP28[productName=C, id=d96977f0], 
+NP24[productName=C, id=31777e14], 
+NP8[productName=C, id=af25e7f1], 
+NP3[productName=C, id=cbe8a9d], 
+NP20[productName=C, id=af07105c], 
+NP11[productName=C, id=af964eac], 
+NP27[productName=C, id=558df6aa]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD19, intialCash=53, currentCash=186, initial # of native products=46
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=2
+
+nativeProduct left=[
+NP3[productName=A, id=7b47cd38], 
+NP5[productName=A, id=c0b96707], 
+NP11[productName=A, id=4e8289d9], 
+NP16[productName=A, id=de85083f], 
+NP20[productName=A, id=e5f7f02a], 
+NP22[productName=A, id=dd1c45c4], 
+NP27[productName=A, id=20483162], 
+NP31[productName=A, id=435739b9], 
+NP36[productName=A, id=78af2cc7], 
+NP41[productName=A, id=879ff2cc], 
+NP44[productName=A, id=2a518838], 
+NP46[productName=A, id=6394b733]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD42, Total earned from the buyer depot: 32 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD19"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot CD42: 6
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP25[productName=A, id=47966393], 
+NP21[productName=A, id=a6b31c5], 
+NP24[productName=A, id=15fddf10], 
+NP37[productName=A, id=6e681ce6], 
+NP28[productName=A, id=bdb7188b], 
+NP18[productName=A, id=71aab7d1]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD35, Total earned from the buyer depot: 142 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD19"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD35: 28
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP19[productName=A, id=7d1fe4bd], 
+NP32[productName=A, id=68d1c2e2], 
+NP34[productName=A, id=9ab38f8c], 
+NP43[productName=A, id=6036a61e], 
+NP42[productName=A, id=f742ddc7], 
+NP23[productName=A, id=2a61739e], 
+NP39[productName=A, id=b8254d67], 
+NP1[productName=A, id=7d58835f], 
+NP6[productName=A, id=2e9f718], 
+NP33[productName=A, id=732040a4], 
+NP9[productName=A, id=fc11349f], 
+NP14[productName=A, id=170ccd10], 
+NP26[productName=A, id=a57edca6], 
+NP15[productName=A, id=b4d840f4], 
+NP4[productName=A, id=d632d802], 
+NP17[productName=A, id=89218fc2], 
+NP13[productName=A, id=68995367], 
+NP35[productName=A, id=98d922f1], 
+NP30[productName=A, id=78482991], 
+NP7[productName=A, id=492bbcbb], 
+NP2[productName=A, id=d9fb7779], 
+NP10[productName=A, id=d60ac232], 
+NP29[productName=A, id=780ffeab], 
+NP45[productName=A, id=532bf767], 
+NP12[productName=A, id=66efbc5f], 
+NP38[productName=A, id=ab4b50a8], 
+NP8[productName=A, id=4ffed3de], 
+NP40[productName=A, id=f7971c6f]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD39, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD39
+x -> native product price: 9
+y -> # of native product sold: 0
+z -> native product delivery price: 9
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD38, Total paid: 41 (x * y + z)
+
+The native product info at the seller depot CD38
+x -> native product price: 1
+y -> # of native product sold: 34
+z -> native product delivery price: 7
+
+externalProductII=[
+NP6[productName=C, id=9dcc7e32], 
+NP40[productName=C, id=e0fe8102], 
+NP41[productName=C, id=fd5e0299], 
+NP2[productName=C, id=8c3d8724], 
+NP45[productName=C, id=c87f1f4], 
+NP5[productName=C, id=b8259e03], 
+NP35[productName=C, id=cf4e369e], 
+NP8[productName=C, id=5111fb13], 
+NP18[productName=C, id=4ead506d], 
+NP28[productName=C, id=b138d884], 
+NP10[productName=C, id=3f6c518c], 
+NP14[productName=C, id=4c939055], 
+NP23[productName=C, id=8528b24f], 
+NP31[productName=C, id=3c6d0eb5], 
+NP39[productName=C, id=371711ff], 
+NP22[productName=C, id=75098697], 
+NP11[productName=C, id=c45b9d39], 
+NP7[productName=C, id=6efbcf21], 
+NP1[productName=C, id=98d68335], 
+NP16[productName=C, id=5c77d6c0], 
+NP9[productName=C, id=efd561cf], 
+NP19[productName=C, id=4ba7f4e1], 
+NP34[productName=C, id=a8b83162], 
+NP15[productName=C, id=a6a1a9b0], 
+NP24[productName=C, id=3808fe6], 
+NP3[productName=C, id=24446d7d], 
+NP13[productName=C, id=14cce832], 
+NP32[productName=C, id=e220f387], 
+NP17[productName=C, id=113dc2c9], 
+NP43[productName=C, id=cbab759d], 
+NP42[productName=C, id=7f63a2eb], 
+NP20[productName=C, id=d0729537], 
+NP4[productName=C, id=673d953a], 
+NP25[productName=C, id=1d975096]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD20, intialCash=53, currentCash=210, initial # of native products=26
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=1
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD28, Total earned from the buyer depot: 81 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD20"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot CD28: 10
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP23[productName=A, id=e493e7b1], 
+NP2[productName=A, id=56ab1bc1], 
+NP8[productName=A, id=ac0db649], 
+NP1[productName=A, id=b8d5c58d], 
+NP18[productName=A, id=21e28279], 
+NP12[productName=A, id=4b91be0b], 
+NP22[productName=A, id=7f558c67], 
+NP26[productName=A, id=5f71d15f], 
+NP16[productName=A, id=fad8181b], 
+NP14[productName=A, id=6dbece5c]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD16, Total earned from the buyer depot: 129 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD20"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot BD16: 16
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP4[productName=A, id=61317a33], 
+NP11[productName=A, id=d5a70ce7], 
+NP21[productName=A, id=3cdda419], 
+NP24[productName=A, id=4e453405], 
+NP3[productName=A, id=bd0aa61a], 
+NP13[productName=A, id=ce619c00], 
+NP5[productName=A, id=152ecddf], 
+NP25[productName=A, id=66243b18], 
+NP7[productName=A, id=6bbd91d], 
+NP19[productName=A, id=433fbbd3], 
+NP6[productName=A, id=89dbdd23], 
+NP10[productName=A, id=1d41962c], 
+NP15[productName=A, id=4dab2382], 
+NP17[productName=A, id=4ffbbad], 
+NP9[productName=A, id=d7902cf2], 
+NP20[productName=A, id=3be0d0b3]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD4, Total paid: 20 (x * y + z)
+
+The native product info at the seller depot BD4
+x -> native product price: 2
+y -> # of native product sold: 9
+z -> native product delivery price: 2
+
+externalProduct=[
+NP7[productName=B, id=8f915686], 
+NP27[productName=B, id=a4b732dd], 
+NP30[productName=B, id=8d01f02c], 
+NP3[productName=B, id=5f33ab6f], 
+NP38[productName=B, id=73618a1f], 
+NP43[productName=B, id=54f88302], 
+NP28[productName=B, id=4e2d0c0f], 
+NP17[productName=B, id=d49976a5], 
+NP4[productName=B, id=bf6bb6da]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD8, Total paid: 33 (x * y + z)
+
+The native product info at the seller depot CD8
+x -> native product price: 9
+y -> # of native product sold: 3
+z -> native product delivery price: 6
+
+externalProductII=[
+NP29[productName=C, id=11f31089], 
+NP23[productName=C, id=2566ef5a], 
+NP12[productName=C, id=1c48bc5d]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD21, intialCash=95, currentCash=53, initial # of native products=47
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=7
+
+nativeProduct left=[
+NP1[productName=A, id=8a672b6e], 
+NP2[productName=A, id=51fb5ab5], 
+NP3[productName=A, id=f76c1234], 
+NP4[productName=A, id=3b47fc93], 
+NP5[productName=A, id=4099408a], 
+NP6[productName=A, id=abbfb49c], 
+NP7[productName=A, id=966f82cc], 
+NP9[productName=A, id=c7dc47da], 
+NP10[productName=A, id=f76cda7e], 
+NP11[productName=A, id=1592b646], 
+NP12[productName=A, id=d51e2ec3], 
+NP13[productName=A, id=8aa933c2], 
+NP14[productName=A, id=dd8a6fb8], 
+NP15[productName=A, id=1b50b5fa], 
+NP16[productName=A, id=5ce8e322], 
+NP18[productName=A, id=47c915bf], 
+NP19[productName=A, id=72b0e7a], 
+NP20[productName=A, id=3f8bec79], 
+NP22[productName=A, id=9fc1a695], 
+NP24[productName=A, id=6ffa5dad], 
+NP25[productName=A, id=7e24edf9], 
+NP26[productName=A, id=4f2b7f2a], 
+NP27[productName=A, id=e0196249], 
+NP29[productName=A, id=e1541ab8], 
+NP30[productName=A, id=b690b93c], 
+NP31[productName=A, id=6bb9df27], 
+NP32[productName=A, id=44cfb71a], 
+NP36[productName=A, id=a52bc13d], 
+NP37[productName=A, id=48901176], 
+NP38[productName=A, id=81ac1a35], 
+NP39[productName=A, id=6f1708b7], 
+NP40[productName=A, id=5ce7287b], 
+NP41[productName=A, id=53765398], 
+NP42[productName=A, id=3e41ec4d], 
+NP43[productName=A, id=c7233949], 
+NP45[productName=A, id=23788a54], 
+NP46[productName=A, id=765a9c64], 
+NP47[productName=A, id=3aa62bd5]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD22, Total earned from the buyer depot: 52 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD21"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot CD22: 9
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP23[productName=A, id=1cc13117], 
+NP33[productName=A, id=52598511], 
+NP21[productName=A, id=d4cf700a], 
+NP28[productName=A, id=bb326c27], 
+NP44[productName=A, id=fc75aa4e], 
+NP17[productName=A, id=8d3848f8], 
+NP34[productName=A, id=8e39c740], 
+NP35[productName=A, id=1ddf88b4], 
+NP8[productName=A, id=b4fbcf66]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD16, Total paid: 76 (x * y + z)
+
+The native product info at the seller depot BD16
+x -> native product price: 4
+y -> # of native product sold: 18
+z -> native product delivery price: 4
+
+externalProduct=[
+NP42[productName=B, id=9ba27f76], 
+NP17[productName=B, id=4ed5395f], 
+NP11[productName=B, id=213830], 
+NP41[productName=B, id=35d94022], 
+NP38[productName=B, id=9118ed1f], 
+NP24[productName=B, id=857336c7], 
+NP4[productName=B, id=951aeeb0], 
+NP13[productName=B, id=2aff2a9b], 
+NP20[productName=B, id=a5c54b3], 
+NP18[productName=B, id=6e80d764], 
+NP27[productName=B, id=75c49d14], 
+NP6[productName=B, id=76cfddca], 
+NP15[productName=B, id=fcef73d6], 
+NP3[productName=B, id=b2e87bc3], 
+NP35[productName=B, id=7e5d428e], 
+NP9[productName=B, id=9cddf05b], 
+NP7[productName=B, id=c83f7270], 
+NP14[productName=B, id=6b602ad7]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD14, Total paid: 18 (x * y + z)
+
+The native product info at the seller depot CD14
+x -> native product price: 2
+y -> # of native product sold: 7
+z -> native product delivery price: 4
+
+externalProductII=[
+NP9[productName=C, id=7779c88c], 
+NP3[productName=C, id=a5808217], 
+NP33[productName=C, id=c865c01d], 
+NP36[productName=C, id=98f68342], 
+NP30[productName=C, id=caf0197a], 
+NP16[productName=C, id=436f55c3], 
+NP37[productName=C, id=b7edf9cc]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD22, intialCash=71, currentCash=150, initial # of native products=45
+
+<The default native products price info at THIS depot>
+price=3, deliveryPrice=5
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD39, Total earned from the buyer depot: 86 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD22"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot CD39: 27
+z -> native products delivery price: 5
+
+nativeProduct sold=[
+NP1[productName=A, id=8063efc5], 
+NP13[productName=A, id=ee6882a4], 
+NP24[productName=A, id=7b83854d], 
+NP8[productName=A, id=1dc812b0], 
+NP33[productName=A, id=e6c497f5], 
+NP26[productName=A, id=8b7fcfc9], 
+NP41[productName=A, id=319f65b2], 
+NP29[productName=A, id=31e2f37a], 
+NP14[productName=A, id=84533c1], 
+NP11[productName=A, id=2c5af6bb], 
+NP32[productName=A, id=205820dd], 
+NP7[productName=A, id=7895102b], 
+NP9[productName=A, id=e4b4e6b9], 
+NP12[productName=A, id=9ccaadeb], 
+NP20[productName=A, id=e701c67a], 
+NP28[productName=A, id=5ed9fa3b], 
+NP44[productName=A, id=1a7a243a], 
+NP3[productName=A, id=bcce0f0a], 
+NP25[productName=A, id=175d203e], 
+NP10[productName=A, id=d3b608f9], 
+NP40[productName=A, id=70962e8e], 
+NP18[productName=A, id=84db1e4a], 
+NP37[productName=A, id=873e9400], 
+NP39[productName=A, id=da50d993], 
+NP19[productName=A, id=22d8646b], 
+NP2[productName=A, id=45fbb40b], 
+NP21[productName=A, id=3ebf5178]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD27, Total earned from the buyer depot: 59 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD22"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot BD27: 18
+z -> native products delivery price: 5
+
+nativeProduct sold=[
+NP6[productName=A, id=1fdecc3f], 
+NP23[productName=A, id=d06883e], 
+NP45[productName=A, id=1be07c88], 
+NP5[productName=A, id=2a4bbb99], 
+NP15[productName=A, id=f51d8d22], 
+NP27[productName=A, id=ac7abcbf], 
+NP42[productName=A, id=a2d2286e], 
+NP30[productName=A, id=e5306d55], 
+NP35[productName=A, id=e9152085], 
+NP16[productName=A, id=5c7c116e], 
+NP38[productName=A, id=540a478e], 
+NP22[productName=A, id=22de0c13], 
+NP31[productName=A, id=fb15cc3c], 
+NP43[productName=A, id=c8e4cd74], 
+NP36[productName=A, id=ba3ec929], 
+NP4[productName=A, id=aa1a1005], 
+NP17[productName=A, id=18fbaa54], 
+NP34[productName=A, id=53a0360c]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD44, Total paid: 53 (x * y + z)
+
+The native product info at the seller depot BD44
+x -> native product price: 8
+y -> # of native product sold: 6
+z -> native product delivery price: 5
+
+externalProduct=[
+NP25[productName=B, id=9b48d25e], 
+NP22[productName=B, id=2b98bb20], 
+NP14[productName=B, id=5d7ca0ed], 
+NP17[productName=B, id=eaf4d726], 
+NP26[productName=B, id=9df1ec0d], 
+NP9[productName=B, id=89a6018f]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD25, Total paid: 13 (x * y + z)
+
+The native product info at the seller depot CD25
+x -> native product price: 1
+y -> # of native product sold: 10
+z -> native product delivery price: 3
+
+externalProductII=[
+NP9[productName=C, id=2429867e], 
+NP6[productName=C, id=2e66c7da], 
+NP4[productName=C, id=1dcc6646], 
+NP15[productName=C, id=d95ad088], 
+NP12[productName=C, id=62e0c72], 
+NP17[productName=C, id=4f2fb46c], 
+NP1[productName=C, id=9b8c23b2], 
+NP10[productName=C, id=561cb324], 
+NP16[productName=C, id=2cccff05], 
+NP5[productName=C, id=49860562]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD23, intialCash=74, currentCash=148, initial # of native products=21
+
+<The default native products price info at THIS depot>
+price=7, deliveryPrice=4
+
+nativeProduct left=[
+NP13[productName=A, id=dc50d3f2]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD21, Total earned from the buyer depot: 46 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD23"
+x -> native products price: 7
+y -> # of native products sold to the buyer depot CD21: 6
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP4[productName=A, id=782cb52], 
+NP12[productName=A, id=de6cc4d7], 
+NP2[productName=A, id=e8a6ddf2], 
+NP14[productName=A, id=b6140ca3], 
+NP9[productName=A, id=ac29a64b], 
+NP6[productName=A, id=b163d52]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD9, Total earned from the buyer depot: 102 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD23"
+x -> native products price: 7
+y -> # of native products sold to the buyer depot BD9: 14
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP15[productName=A, id=8d94861f], 
+NP8[productName=A, id=36bd12f4], 
+NP18[productName=A, id=2a506b45], 
+NP5[productName=A, id=b7b9fdb2], 
+NP16[productName=A, id=e1b8f282], 
+NP17[productName=A, id=4c8e7bca], 
+NP3[productName=A, id=54226262], 
+NP10[productName=A, id=ec8c1f13], 
+NP7[productName=A, id=4de76212], 
+NP1[productName=A, id=8eddb88a], 
+NP21[productName=A, id=95490367], 
+NP20[productName=A, id=a41329c4], 
+NP11[productName=A, id=434f0abe], 
+NP19[productName=A, id=feb75dca]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD42, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD42
+x -> native product price: 3
+y -> # of native product sold: 0
+z -> native product delivery price: 5
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD2, Total paid: 74 (x * y + z)
+
+The native product info at the seller depot CD2
+x -> native product price: 4
+y -> # of native product sold: 18
+z -> native product delivery price: 2
+
+externalProductII=[
+NP10[productName=C, id=91f646f], 
+NP15[productName=C, id=68ee5aa4], 
+NP18[productName=C, id=967d034f], 
+NP19[productName=C, id=264e0ada], 
+NP20[productName=C, id=6818e445], 
+NP2[productName=C, id=49a1844d], 
+NP21[productName=C, id=60d5efbb], 
+NP7[productName=C, id=13546a41], 
+NP29[productName=C, id=d9e656ee], 
+NP27[productName=C, id=b002657c], 
+NP3[productName=C, id=899349fb], 
+NP16[productName=C, id=6916991f], 
+NP8[productName=C, id=df3e1185], 
+NP9[productName=C, id=b311e5e9], 
+NP26[productName=C, id=45490a40], 
+NP30[productName=C, id=7aee2440], 
+NP6[productName=C, id=bb3c0af5], 
+NP4[productName=C, id=df110bcd]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD24, intialCash=94, currentCash=117, initial # of native products=33
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=8
+
+nativeProduct left=[
+NP2[productName=A, id=cbb0197], 
+NP3[productName=A, id=adb9392a], 
+NP4[productName=A, id=fe1f0073], 
+NP5[productName=A, id=5649708f], 
+NP6[productName=A, id=d252b3aa], 
+NP8[productName=A, id=23439e3d], 
+NP11[productName=A, id=38f90c0d], 
+NP12[productName=A, id=5a1e74d8], 
+NP13[productName=A, id=6c7aa547], 
+NP15[productName=A, id=ace9549d], 
+NP16[productName=A, id=e7b3e7d3], 
+NP17[productName=A, id=7cd0e8ff], 
+NP19[productName=A, id=4760d755], 
+NP22[productName=A, id=79d96e07], 
+NP23[productName=A, id=8f29f216], 
+NP24[productName=A, id=47224934], 
+NP25[productName=A, id=6543e236], 
+NP26[productName=A, id=f8367c64], 
+NP28[productName=A, id=ef39778c], 
+NP29[productName=A, id=fc31f2db], 
+NP30[productName=A, id=2dbef4eb], 
+NP31[productName=A, id=e2ab0941], 
+NP32[productName=A, id=f990bed8], 
+NP33[productName=A, id=de0fc3bf]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD4, Total earned from the buyer depot: 89 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD24"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot BD4: 9
+z -> native products delivery price: 8
+
+nativeProduct sold=[
+NP21[productName=A, id=8f247760], 
+NP7[productName=A, id=a8e6ceb0], 
+NP14[productName=A, id=d01502aa], 
+NP9[productName=A, id=afd980aa], 
+NP18[productName=A, id=fa2d484], 
+NP1[productName=A, id=9de86782], 
+NP20[productName=A, id=73574092], 
+NP27[productName=A, id=3de09653], 
+NP10[productName=A, id=c49310fd]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD32, Total paid: 39 (x * y + z)
+
+The native product info at the seller depot BD32
+x -> native product price: 1
+y -> # of native product sold: 37
+z -> native product delivery price: 2
+
+externalProduct=[
+NP22[productName=B, id=9548c2b], 
+NP18[productName=B, id=d908a874], 
+NP32[productName=B, id=37745eb8], 
+NP7[productName=B, id=2f04aca5], 
+NP20[productName=B, id=90c74644], 
+NP12[productName=B, id=39d561f6], 
+NP17[productName=B, id=1ca7cd], 
+NP6[productName=B, id=48082758], 
+NP39[productName=B, id=dd2fea22], 
+NP3[productName=B, id=a757d446], 
+NP1[productName=B, id=cc2060dc], 
+NP28[productName=B, id=c6d199a0], 
+NP15[productName=B, id=483d3ba3], 
+NP43[productName=B, id=99ffc300], 
+NP19[productName=B, id=91267dd], 
+NP25[productName=B, id=d0b7e3ff], 
+NP11[productName=B, id=3d55ffd8], 
+NP14[productName=B, id=dbb46b39], 
+NP4[productName=B, id=181f399d], 
+NP35[productName=B, id=85adc3de], 
+NP2[productName=B, id=11a73ffb], 
+NP16[productName=B, id=ec70f0], 
+NP31[productName=B, id=6766ad70], 
+NP38[productName=B, id=143b2315], 
+NP21[productName=B, id=533b76a4], 
+NP24[productName=B, id=808c3959], 
+NP27[productName=B, id=3b410271], 
+NP13[productName=B, id=26b9a5ae], 
+NP10[productName=B, id=6d81aa1b], 
+NP9[productName=B, id=54d050b7], 
+NP26[productName=B, id=8eb39c72], 
+NP34[productName=B, id=a28cae73], 
+NP5[productName=B, id=cb81e27f], 
+NP37[productName=B, id=b205d6b6], 
+NP40[productName=B, id=cb104dc5], 
+NP30[productName=B, id=eba92bad], 
+NP36[productName=B, id=f9190677]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD29, Total paid: 27 (x * y + z)
+
+The native product info at the seller depot CD29
+x -> native product price: 2
+y -> # of native product sold: 11
+z -> native product delivery price: 5
+
+externalProductII=[
+NP14[productName=C, id=8f10f1c3], 
+NP3[productName=C, id=7d6db0ad], 
+NP2[productName=C, id=cbf829e1], 
+NP20[productName=C, id=e61e49a8], 
+NP1[productName=C, id=3507ebd0], 
+NP10[productName=C, id=8311ab12], 
+NP18[productName=C, id=3b56b690], 
+NP15[productName=C, id=6b0ebf04], 
+NP16[productName=C, id=7fd02701], 
+NP9[productName=C, id=efabb81c], 
+NP4[productName=C, id=22d1ff91]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD25, intialCash=66, currentCash=112, initial # of native products=37
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=2
+
+nativeProduct left=[
+NP2[productName=A, id=d598e453], 
+NP3[productName=A, id=ad3ce276], 
+NP4[productName=A, id=8a1c7db9], 
+NP5[productName=A, id=772e8a9c], 
+NP6[productName=A, id=4543d1ea], 
+NP7[productName=A, id=25dacece], 
+NP8[productName=A, id=4ade9dab], 
+NP9[productName=A, id=8c1c74ab], 
+NP10[productName=A, id=e6c79906], 
+NP11[productName=A, id=5c741461], 
+NP13[productName=A, id=c586a6df], 
+NP14[productName=A, id=ff5e5cdf], 
+NP17[productName=A, id=27c23d21], 
+NP18[productName=A, id=309895f6], 
+NP20[productName=A, id=4448d1c], 
+NP21[productName=A, id=e34c9d23], 
+NP23[productName=A, id=d28ebe73], 
+NP26[productName=A, id=7c6a3564], 
+NP27[productName=A, id=356e9ce2], 
+NP28[productName=A, id=ef1f2641], 
+NP29[productName=A, id=225b6bb2], 
+NP30[productName=A, id=fb27a9ac], 
+NP31[productName=A, id=a9b776d4], 
+NP33[productName=A, id=aeba0ee], 
+NP36[productName=A, id=d38e7fa]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD47, Total earned from the buyer depot: 11 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD25"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot CD47: 1
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP35[productName=A, id=d318e486]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD15, Total earned from the buyer depot: 101 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD25"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot BD15: 11
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP16[productName=A, id=df0b145d], 
+NP15[productName=A, id=846c1531], 
+NP24[productName=A, id=7c4f8e26], 
+NP32[productName=A, id=a08b1457], 
+NP19[productName=A, id=e218436], 
+NP12[productName=A, id=18e5f051], 
+NP37[productName=A, id=5cfb7f43], 
+NP1[productName=A, id=6ebe586a], 
+NP25[productName=A, id=b462fa51], 
+NP22[productName=A, id=48d96909], 
+NP34[productName=A, id=f8751999]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD36, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD36
+x -> native product price: 4
+y -> # of native product sold: 0
+z -> native product delivery price: 3
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD43, Total paid: 66 (x * y + z)
+
+The native product info at the seller depot CD43
+x -> native product price: 4
+y -> # of native product sold: 15
+z -> native product delivery price: 6
+
+externalProductII=[
+NP29[productName=C, id=9c24d5aa], 
+NP15[productName=C, id=685d6b23], 
+NP27[productName=C, id=2a67402], 
+NP30[productName=C, id=44781a22], 
+NP2[productName=C, id=1a56f682], 
+NP25[productName=C, id=57f437ee], 
+NP13[productName=C, id=191f14e8], 
+NP1[productName=C, id=321a7a5f], 
+NP10[productName=C, id=808baf64], 
+NP32[productName=C, id=a8c9af51], 
+NP11[productName=C, id=9007a8ca], 
+NP12[productName=C, id=6f4feada], 
+NP31[productName=C, id=78cc1968], 
+NP4[productName=C, id=11220262], 
+NP16[productName=C, id=c6df34c]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD26, intialCash=53, currentCash=174, initial # of native products=21
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=2
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD5, Total earned from the buyer depot: 170 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD26"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot BD5: 21
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP13[productName=A, id=7c3f3d7d], 
+NP21[productName=A, id=92079f51], 
+NP15[productName=A, id=2174826d], 
+NP18[productName=A, id=5a2ec674], 
+NP9[productName=A, id=31730117], 
+NP4[productName=A, id=f6e4599], 
+NP19[productName=A, id=617c2f], 
+NP5[productName=A, id=992fb7f9], 
+NP11[productName=A, id=2fbbf23c], 
+NP1[productName=A, id=f89fa0ab], 
+NP20[productName=A, id=475b8012], 
+NP10[productName=A, id=9f3e41df], 
+NP17[productName=A, id=f854bc8e], 
+NP7[productName=A, id=c4adb9f], 
+NP16[productName=A, id=79baaecb], 
+NP8[productName=A, id=1d633533], 
+NP6[productName=A, id=8bb500aa], 
+NP12[productName=A, id=be61cb55], 
+NP3[productName=A, id=18efff04], 
+NP14[productName=A, id=53b53c52], 
+NP2[productName=A, id=88ef7563]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD23, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD23
+x -> native product price: 4
+y -> # of native product sold: 0
+z -> native product delivery price: 1
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD18, Total paid: 49 (x * y + z)
+
+The native product info at the seller depot CD18
+x -> native product price: 2
+y -> # of native product sold: 24
+z -> native product delivery price: 1
+
+externalProductII=[
+NP6[productName=C, id=c1c6bbc3], 
+NP26[productName=C, id=5c54ca77], 
+NP27[productName=C, id=2d0c1cc9], 
+NP29[productName=C, id=e4831ac8], 
+NP11[productName=C, id=760731e1], 
+NP5[productName=C, id=db8a6922], 
+NP25[productName=C, id=1d173c82], 
+NP1[productName=C, id=460bb9b1], 
+NP24[productName=C, id=6f78e1e7], 
+NP2[productName=C, id=7a6b772b], 
+NP31[productName=C, id=167497ec], 
+NP17[productName=C, id=bc55d6da], 
+NP10[productName=C, id=6be21b43], 
+NP8[productName=C, id=9385e465], 
+NP33[productName=C, id=3bce6061], 
+NP16[productName=C, id=badec45], 
+NP19[productName=C, id=bde33856], 
+NP22[productName=C, id=8dc1fbce], 
+NP32[productName=C, id=4e36d616], 
+NP34[productName=C, id=9787e7dc], 
+NP3[productName=C, id=ab01593c], 
+NP15[productName=C, id=712e6b3f], 
+NP9[productName=C, id=f95ae236], 
+NP21[productName=C, id=c9dbc17f]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD27, intialCash=79, currentCash=85, initial # of native products=41
+
+<The default native products price info at THIS depot>
+price=3, deliveryPrice=2
+
+nativeProduct left=[
+NP3[productName=A, id=d96da74d], 
+NP4[productName=A, id=d67ae825], 
+NP7[productName=A, id=faced657], 
+NP15[productName=A, id=55458169], 
+NP16[productName=A, id=500fc1ed], 
+NP18[productName=A, id=366e64f1], 
+NP19[productName=A, id=aa3c5d5e], 
+NP22[productName=A, id=1a279beb], 
+NP23[productName=A, id=d306cc2c], 
+NP26[productName=A, id=934a69cd], 
+NP27[productName=A, id=f4d3baf3], 
+NP29[productName=A, id=7e030d3a], 
+NP36[productName=A, id=212a5df6], 
+NP41[productName=A, id=e6977206]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD12, Total earned from the buyer depot: 26 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD27"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot CD12: 8
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP34[productName=A, id=b3864474], 
+NP25[productName=A, id=7807fbf9], 
+NP12[productName=A, id=90cb0eed], 
+NP33[productName=A, id=677ee797], 
+NP5[productName=A, id=941c1b38], 
+NP24[productName=A, id=f8d6b21c], 
+NP30[productName=A, id=b61b629b], 
+NP2[productName=A, id=d7f4dfa3]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD40, Total earned from the buyer depot: 59 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD27"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot BD40: 19
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP35[productName=A, id=54ad60fa], 
+NP39[productName=A, id=53d02ad3], 
+NP21[productName=A, id=9d89a8d5], 
+NP31[productName=A, id=a19382ee], 
+NP14[productName=A, id=d43dc2a8], 
+NP11[productName=A, id=651bdea7], 
+NP40[productName=A, id=4ca57d8c], 
+NP38[productName=A, id=8dca0e7c], 
+NP6[productName=A, id=10c4a8f], 
+NP9[productName=A, id=95b39976], 
+NP20[productName=A, id=36bee566], 
+NP10[productName=A, id=554430bc], 
+NP13[productName=A, id=ea05c824], 
+NP28[productName=A, id=5f989c33], 
+NP37[productName=A, id=1407210b], 
+NP32[productName=A, id=444fd047], 
+NP8[productName=A, id=3788af10], 
+NP17[productName=A, id=b1804d7a], 
+NP1[productName=A, id=3f687b33]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD19, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD19
+x -> native product price: 2
+y -> # of native product sold: 0
+z -> native product delivery price: 6
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD23, Total paid: 79 (x * y + z)
+
+The native product info at the seller depot CD23
+x -> native product price: 7
+y -> # of native product sold: 11
+z -> native product delivery price: 2
+
+externalProductII=[
+NP22[productName=C, id=1feae3fc], 
+NP11[productName=C, id=a625e906], 
+NP24[productName=C, id=de9a3a0f], 
+NP17[productName=C, id=18842d24], 
+NP2[productName=C, id=6bce003a], 
+NP9[productName=C, id=cd6db23d], 
+NP16[productName=C, id=d78e7ea9], 
+NP19[productName=C, id=e09c999d], 
+NP5[productName=C, id=58ff793c], 
+NP1[productName=C, id=7ab9278b], 
+NP8[productName=C, id=2aea953a]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD28, intialCash=93, currentCash=162, initial # of native products=22
+
+<The default native products price info at THIS depot>
+price=7, deliveryPrice=4
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD6, Total earned from the buyer depot: 95 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD28"
+x -> native products price: 7
+y -> # of native products sold to the buyer depot CD6: 13
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP21[productName=A, id=65d24ce5], 
+NP7[productName=A, id=da3656f], 
+NP3[productName=A, id=1be5a64e], 
+NP22[productName=A, id=f7c5508a], 
+NP18[productName=A, id=bd01a7e6], 
+NP1[productName=A, id=4bd05f21], 
+NP6[productName=A, id=9e31dd6b], 
+NP16[productName=A, id=33dcfe70], 
+NP13[productName=A, id=b54a6b8b], 
+NP12[productName=A, id=b539f7a6], 
+NP8[productName=A, id=89a5f734], 
+NP10[productName=A, id=12f00927], 
+NP5[productName=A, id=bfbc2425]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD34, Total earned from the buyer depot: 67 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD28"
+x -> native products price: 7
+y -> # of native products sold to the buyer depot BD34: 9
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP17[productName=A, id=cb044ea4], 
+NP14[productName=A, id=8c3054af], 
+NP4[productName=A, id=4507c9aa], 
+NP20[productName=A, id=5a858d5b], 
+NP19[productName=A, id=4e7a538c], 
+NP9[productName=A, id=1f3d7873], 
+NP15[productName=A, id=2956a2cf], 
+NP2[productName=A, id=e27f1320], 
+NP11[productName=A, id=67488118]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD1, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD1
+x -> native product price: 5
+y -> # of native product sold: 0
+z -> native product delivery price: 8
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD47, Total paid: 93 (x * y + z)
+
+The native product info at the seller depot CD47
+x -> native product price: 3
+y -> # of native product sold: 30
+z -> native product delivery price: 3
+
+externalProductII=[
+NP28[productName=C, id=cc5997b4], 
+NP27[productName=C, id=3abe230c], 
+NP1[productName=C, id=3c6b7db7], 
+NP36[productName=C, id=38c67213], 
+NP23[productName=C, id=f7f5ca43], 
+NP6[productName=C, id=80ddac10], 
+NP12[productName=C, id=5bd02612], 
+NP7[productName=C, id=94120bac], 
+NP25[productName=C, id=5d5ff114], 
+NP33[productName=C, id=68a901d7], 
+NP14[productName=C, id=6160fd4d], 
+NP31[productName=C, id=638f625a], 
+NP5[productName=C, id=3d21687c], 
+NP24[productName=C, id=2c350999], 
+NP34[productName=C, id=2d4c7e11], 
+NP26[productName=C, id=1a0210ac], 
+NP10[productName=C, id=c05f902b], 
+NP20[productName=C, id=bd1aa56e], 
+NP29[productName=C, id=95b50e5b], 
+NP32[productName=C, id=8a71f885], 
+NP8[productName=C, id=c7a279c4], 
+NP17[productName=C, id=5b2b61df], 
+NP21[productName=C, id=615e3673], 
+NP19[productName=C, id=5e7a310c], 
+NP11[productName=C, id=f22e91b5], 
+NP22[productName=C, id=741d17b3], 
+NP16[productName=C, id=4e84ee89], 
+NP2[productName=C, id=200a2965], 
+NP3[productName=C, id=460d54ce], 
+NP37[productName=C, id=6742a8b0]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD29, intialCash=85, currentCash=79, initial # of native products=37
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=1
+
+nativeProduct left=[
+NP1[productName=A, id=c8936875], 
+NP3[productName=A, id=cda77600], 
+NP4[productName=A, id=ee066531], 
+NP5[productName=A, id=bac7388f], 
+NP6[productName=A, id=daa17711], 
+NP9[productName=A, id=bfd9f0e9], 
+NP10[productName=A, id=e93f68c7], 
+NP11[productName=A, id=68460e3f], 
+NP13[productName=A, id=8a97837f], 
+NP15[productName=A, id=184f2920], 
+NP18[productName=A, id=a7d1dc4a], 
+NP19[productName=A, id=da6df5fd], 
+NP20[productName=A, id=d0697230], 
+NP21[productName=A, id=de129992], 
+NP22[productName=A, id=5b8d6d14], 
+NP23[productName=A, id=44a2ce49], 
+NP24[productName=A, id=47cb6c7a], 
+NP26[productName=A, id=2a84d77c], 
+NP28[productName=A, id=ddb7a45f], 
+NP29[productName=A, id=81ae5c43], 
+NP33[productName=A, id=a2924068], 
+NP37[productName=A, id=dbb6aab7]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD50, Total earned from the buyer depot: 11 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD29"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot CD50: 2
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP14[productName=A, id=39763d6b], 
+NP12[productName=A, id=73c6b72]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD23, Total earned from the buyer depot: 66 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD29"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD23: 13
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP34[productName=A, id=395720e], 
+NP31[productName=A, id=d47d2f5], 
+NP8[productName=A, id=f1445f7d], 
+NP27[productName=A, id=c6402b49], 
+NP16[productName=A, id=dcfb5a3e], 
+NP25[productName=A, id=f6651d07], 
+NP17[productName=A, id=d42fdd03], 
+NP7[productName=A, id=ebe50e77], 
+NP36[productName=A, id=e6e63841], 
+NP32[productName=A, id=da3350b], 
+NP35[productName=A, id=b27038db], 
+NP2[productName=A, id=61533fb0], 
+NP30[productName=A, id=fc6315db]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD40, Total paid: 20 (x * y + z)
+
+The native product info at the seller depot BD40
+x -> native product price: 3
+y -> # of native product sold: 4
+z -> native product delivery price: 8
+
+externalProduct=[
+NP39[productName=B, id=e1e428b0], 
+NP18[productName=B, id=c7ef5ec9], 
+NP33[productName=B, id=76657e12], 
+NP17[productName=B, id=a16486be]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD41, Total paid: 63 (x * y + z)
+
+The native product info at the seller depot CD41
+x -> native product price: 4
+y -> # of native product sold: 14
+z -> native product delivery price: 7
+
+externalProductII=[
+NP7[productName=C, id=3b8cebbe], 
+NP19[productName=C, id=250144e9], 
+NP13[productName=C, id=5b27c685], 
+NP18[productName=C, id=fee2d879], 
+NP3[productName=C, id=939a7579], 
+NP1[productName=C, id=21a5fb90], 
+NP23[productName=C, id=9a6e6420], 
+NP21[productName=C, id=6131ce63], 
+NP20[productName=C, id=78684a79], 
+NP11[productName=C, id=a5562117], 
+NP14[productName=C, id=65a83430], 
+NP15[productName=C, id=3d50cdbf], 
+NP2[productName=C, id=cd6d9ae1], 
+NP9[productName=C, id=144ad82b]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD30, intialCash=71, currentCash=154, initial # of native products=36
+
+<The default native products price info at THIS depot>
+price=4, deliveryPrice=4
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD23, Total earned from the buyer depot: 20 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD30"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot CD23: 4
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP15[productName=A, id=71483360], 
+NP1[productName=A, id=51e6ed47], 
+NP21[productName=A, id=bc2cac5f], 
+NP2[productName=A, id=d0886f2c]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD18, Total earned from the buyer depot: 132 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD30"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot BD18: 32
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP36[productName=A, id=eff63643], 
+NP13[productName=A, id=f123fa98], 
+NP5[productName=A, id=b24a09a0], 
+NP17[productName=A, id=e43e2241], 
+NP34[productName=A, id=5397489c], 
+NP7[productName=A, id=40b420db], 
+NP23[productName=A, id=eea62884], 
+NP10[productName=A, id=dac176d9], 
+NP24[productName=A, id=18f2330c], 
+NP14[productName=A, id=5244f0f1], 
+NP4[productName=A, id=61e14711], 
+NP26[productName=A, id=d04d2eaa], 
+NP32[productName=A, id=52e0c937], 
+NP35[productName=A, id=48573575], 
+NP16[productName=A, id=73264e7d], 
+NP33[productName=A, id=2d5e13b2], 
+NP3[productName=A, id=88e3fe6], 
+NP31[productName=A, id=1d04d95e], 
+NP12[productName=A, id=b202a0bb], 
+NP25[productName=A, id=b1ba9533], 
+NP20[productName=A, id=b033bc0f], 
+NP19[productName=A, id=8c408f9f], 
+NP18[productName=A, id=6df2113f], 
+NP28[productName=A, id=cb394be4], 
+NP22[productName=A, id=74534cc7], 
+NP27[productName=A, id=35873d06], 
+NP6[productName=A, id=4daf0047], 
+NP29[productName=A, id=abe31a8c], 
+NP30[productName=A, id=83998c1], 
+NP8[productName=A, id=a9dc22d4], 
+NP11[productName=A, id=b7df5c64], 
+NP9[productName=A, id=5155c0bb]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD43, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD43
+x -> native product price: 9
+y -> # of native product sold: 0
+z -> native product delivery price: 3
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD5, Total paid: 69 (x * y + z)
+
+The native product info at the seller depot CD5
+x -> native product price: 7
+y -> # of native product sold: 9
+z -> native product delivery price: 6
+
+externalProductII=[
+NP19[productName=C, id=9e82d864], 
+NP16[productName=C, id=68a6d0], 
+NP6[productName=C, id=3e44858], 
+NP33[productName=C, id=67b02161], 
+NP29[productName=C, id=c5d4eb45], 
+NP4[productName=C, id=7a3e625d], 
+NP12[productName=C, id=839cb4a1], 
+NP14[productName=C, id=1cfbc8d3], 
+NP11[productName=C, id=87ba1b01]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD31, intialCash=90, currentCash=203, initial # of native products=21
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=7
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD9, Total earned from the buyer depot: 169 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD31"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot CD9: 18
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP16[productName=A, id=52292084], 
+NP5[productName=A, id=d145bc0e], 
+NP12[productName=A, id=29eae2b0], 
+NP6[productName=A, id=14b125e9], 
+NP15[productName=A, id=2b86d8ea], 
+NP3[productName=A, id=87ef5735], 
+NP9[productName=A, id=65b8765a], 
+NP17[productName=A, id=e7032091], 
+NP20[productName=A, id=c3c00f3b], 
+NP10[productName=A, id=aba85053], 
+NP1[productName=A, id=8d9bbb9f], 
+NP11[productName=A, id=ae1e2ba0], 
+NP19[productName=A, id=41239cb3], 
+NP4[productName=A, id=5dba5b1d], 
+NP14[productName=A, id=197fb51b], 
+NP13[productName=A, id=512aef23], 
+NP8[productName=A, id=ea5c81c4], 
+NP7[productName=A, id=b0469eb6]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD25, Total earned from the buyer depot: 34 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD31"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot BD25: 3
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP18[productName=A, id=7251b8ab], 
+NP21[productName=A, id=2ab6ac53], 
+NP2[productName=A, id=c5bd9f4]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD15, Total paid: 57 (x * y + z)
+
+The native product info at the seller depot BD15
+x -> native product price: 6
+y -> # of native product sold: 8
+z -> native product delivery price: 9
+
+externalProduct=[
+NP5[productName=B, id=328b959f], 
+NP4[productName=B, id=cf45c2f1], 
+NP1[productName=B, id=6b512ac5], 
+NP6[productName=B, id=8bb77775], 
+NP8[productName=B, id=8314548e], 
+NP15[productName=B, id=a2515eda], 
+NP7[productName=B, id=62f095e7], 
+NP2[productName=B, id=e7dab059]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD42, Total paid: 33 (x * y + z)
+
+The native product info at the seller depot CD42
+x -> native product price: 8
+y -> # of native product sold: 4
+z -> native product delivery price: 1
+
+externalProductII=[
+NP34[productName=C, id=95ca029c], 
+NP42[productName=C, id=aafe783d], 
+NP19[productName=C, id=906f2449], 
+NP2[productName=C, id=8c943285]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD32, intialCash=99, currentCash=99, initial # of native products=29
+
+<The default native products price info at THIS depot>
+price=2, deliveryPrice=3
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD45, Total earned from the buyer depot: 61 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD32"
+x -> native products price: 2
+y -> # of native products sold to the buyer depot CD45: 29
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP10[productName=A, id=308b101], 
+NP23[productName=A, id=4b481bf5], 
+NP29[productName=A, id=d657f1cc], 
+NP21[productName=A, id=aa30f898], 
+NP8[productName=A, id=3c021892], 
+NP13[productName=A, id=dd8389f4], 
+NP2[productName=A, id=3bc38214], 
+NP1[productName=A, id=af41d8ce], 
+NP27[productName=A, id=4ba1fa2c], 
+NP14[productName=A, id=d16c375b], 
+NP15[productName=A, id=1d341acb], 
+NP11[productName=A, id=5c66f6d3], 
+NP24[productName=A, id=a70bd94f], 
+NP18[productName=A, id=226ec703], 
+NP26[productName=A, id=dddcd58c], 
+NP5[productName=A, id=61a67af7], 
+NP6[productName=A, id=56b2d3e8], 
+NP16[productName=A, id=178ea106], 
+NP28[productName=A, id=d566d3f5], 
+NP22[productName=A, id=daaf779e], 
+NP17[productName=A, id=2eb30558], 
+NP3[productName=A, id=d91e83f9], 
+NP20[productName=A, id=d4356d83], 
+NP9[productName=A, id=ae0cdd1b], 
+NP7[productName=A, id=3f4bb8b4], 
+NP19[productName=A, id=c4dbda87], 
+NP25[productName=A, id=82cbbdd7], 
+NP4[productName=A, id=14dc3bf5], 
+NP12[productName=A, id=75afb475]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD2, Total paid: 7 (x * y + z)
+
+The native product info at the seller depot BD2
+x -> native product price: 2
+y -> # of native product sold: 3
+z -> native product delivery price: 1
+
+externalProduct=[
+NP34[productName=B, id=2532240c], 
+NP19[productName=B, id=c7fac7ce], 
+NP23[productName=B, id=25b228fc]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD6, Total paid: 54 (x * y + z)
+
+The native product info at the seller depot CD6
+x -> native product price: 4
+y -> # of native product sold: 12
+z -> native product delivery price: 6
+
+externalProductII=[
+NP22[productName=C, id=932a110f], 
+NP1[productName=C, id=8d1d611a], 
+NP6[productName=C, id=204b849a], 
+NP12[productName=C, id=358f6cec], 
+NP17[productName=C, id=e2ba7d53], 
+NP28[productName=C, id=6be7bd91], 
+NP30[productName=C, id=a5519107], 
+NP29[productName=C, id=ac67dcb9], 
+NP13[productName=C, id=f6eeafd9], 
+NP21[productName=C, id=bd908cf3], 
+NP4[productName=C, id=6b03848b], 
+NP35[productName=C, id=9b0cad7c]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD33, intialCash=99, currentCash=48, initial # of native products=26
+
+<The default native products price info at THIS depot>
+price=6, deliveryPrice=3
+
+nativeProduct left=[
+NP1[productName=A, id=d0646b45], 
+NP2[productName=A, id=dcbaf75e], 
+NP3[productName=A, id=29a78bf0], 
+NP4[productName=A, id=e5f53bad], 
+NP5[productName=A, id=18da957a], 
+NP8[productName=A, id=29c0b7d], 
+NP9[productName=A, id=17be6afb], 
+NP10[productName=A, id=b1c6d710], 
+NP11[productName=A, id=48fde564], 
+NP14[productName=A, id=de72d464], 
+NP15[productName=A, id=d5571995], 
+NP17[productName=A, id=bca08667], 
+NP18[productName=A, id=e24a0021], 
+NP19[productName=A, id=e89fabd3], 
+NP20[productName=A, id=293875f0], 
+NP21[productName=A, id=feb3dbc], 
+NP24[productName=A, id=a187b555], 
+NP25[productName=A, id=b45d1aac], 
+NP26[productName=A, id=5703f6d7]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD25, Total earned from the buyer depot: 21 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD33"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot CD25: 3
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP22[productName=A, id=c6438857], 
+NP12[productName=A, id=b130155a], 
+NP7[productName=A, id=3c45b43b]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD31, Total earned from the buyer depot: 27 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD33"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot BD31: 4
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP13[productName=A, id=76aa2a1], 
+NP16[productName=A, id=bad52ec1], 
+NP23[productName=A, id=46937a7d], 
+NP6[productName=A, id=dd754e0e]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD45, Total paid: 16 (x * y + z)
+
+The native product info at the seller depot BD45
+x -> native product price: 1
+y -> # of native product sold: 11
+z -> native product delivery price: 5
+
+externalProduct=[
+NP7[productName=B, id=e11d392e], 
+NP1[productName=B, id=7841b9b3], 
+NP32[productName=B, id=e225d851], 
+NP31[productName=B, id=1e0e9714], 
+NP15[productName=B, id=85db3cee], 
+NP22[productName=B, id=c0cc50e1], 
+NP29[productName=B, id=7a45f614], 
+NP35[productName=B, id=a254157f], 
+NP21[productName=B, id=1a8b8695], 
+NP38[productName=B, id=15b9ad65], 
+NP9[productName=B, id=8464b8ff]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD46, Total paid: 83 (x * y + z)
+
+The native product info at the seller depot CD46
+x -> native product price: 8
+y -> # of native product sold: 10
+z -> native product delivery price: 3
+
+externalProductII=[
+NP15[productName=C, id=bee1c2ff], 
+NP6[productName=C, id=1f4698e], 
+NP3[productName=C, id=b95e3ea2], 
+NP8[productName=C, id=37177804], 
+NP20[productName=C, id=567faa5b], 
+NP10[productName=C, id=e1e9c640], 
+NP4[productName=C, id=4b0c24aa], 
+NP14[productName=C, id=21cee713], 
+NP7[productName=C, id=cfc68a34], 
+NP5[productName=C, id=ff529c5f]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD34, intialCash=53, currentCash=91, initial # of native products=42
+
+<The default native products price info at THIS depot>
+price=3, deliveryPrice=2
+
+nativeProduct left=[
+NP1[productName=A, id=f04a7fa8], 
+NP3[productName=A, id=666f0163], 
+NP6[productName=A, id=a5311514], 
+NP7[productName=A, id=105b09ff], 
+NP10[productName=A, id=79557a54], 
+NP12[productName=A, id=29b5d25d], 
+NP14[productName=A, id=10a8ad24], 
+NP18[productName=A, id=12a3c365], 
+NP19[productName=A, id=f46ef80e], 
+NP20[productName=A, id=76efa584], 
+NP22[productName=A, id=56c1f47c], 
+NP23[productName=A, id=56aa27d3], 
+NP31[productName=A, id=ab635d73]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD48, Total earned from the buyer depot: 29 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD34"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot CD48: 9
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP30[productName=A, id=1decc2d2], 
+NP26[productName=A, id=911cb29], 
+NP16[productName=A, id=c005a6e1], 
+NP38[productName=A, id=573dc322], 
+NP35[productName=A, id=965d10f], 
+NP21[productName=A, id=5284d6b7], 
+NP15[productName=A, id=99270ce6], 
+NP36[productName=A, id=db8c50aa], 
+NP40[productName=A, id=66614b34]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD26, Total earned from the buyer depot: 62 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD34"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot BD26: 20
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP11[productName=A, id=2d41b811], 
+NP39[productName=A, id=d7e94ed9], 
+NP8[productName=A, id=432b341a], 
+NP9[productName=A, id=e8b7c26b], 
+NP27[productName=A, id=b394d93], 
+NP13[productName=A, id=6b5a4f08], 
+NP29[productName=A, id=5a95169d], 
+NP5[productName=A, id=56ba28ae], 
+NP37[productName=A, id=745f19d7], 
+NP25[productName=A, id=5368aa5], 
+NP32[productName=A, id=1567d4cb], 
+NP2[productName=A, id=ca1e2820], 
+NP33[productName=A, id=d271db92], 
+NP42[productName=A, id=4f9f1031], 
+NP24[productName=A, id=fbe0c451], 
+NP28[productName=A, id=f48da3b7], 
+NP34[productName=A, id=9eabb40a], 
+NP17[productName=A, id=e587dabe], 
+NP41[productName=A, id=4feef199], 
+NP4[productName=A, id=371ae360]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD14, Total paid: 8 (x * y + z)
+
+The native product info at the seller depot BD14
+x -> native product price: 6
+y -> # of native product sold: 1
+z -> native product delivery price: 2
+
+externalProduct=[
+NP1[productName=B, id=5d6f80fe]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD15, Total paid: 45 (x * y + z)
+
+The native product info at the seller depot CD15
+x -> native product price: 9
+y -> # of native product sold: 4
+z -> native product delivery price: 9
+
+externalProductII=[
+NP11[productName=C, id=9060fd5], 
+NP23[productName=C, id=6eb06f55], 
+NP14[productName=C, id=cd2b2470], 
+NP26[productName=C, id=c90d56a0]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD35, intialCash=77, currentCash=5, initial # of native products=47
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=5
+
+nativeProduct left=[
+NP1[productName=A, id=3147e733], 
+NP2[productName=A, id=4fc2039e], 
+NP3[productName=A, id=96a8e1be], 
+NP4[productName=A, id=b3d635a7], 
+NP5[productName=A, id=3c7cbeee], 
+NP6[productName=A, id=451d9bb1], 
+NP7[productName=A, id=f3198df3], 
+NP8[productName=A, id=1249eedc], 
+NP9[productName=A, id=bbeea363], 
+NP10[productName=A, id=562c45fe], 
+NP11[productName=A, id=6dc71e9], 
+NP12[productName=A, id=d3f360fe], 
+NP13[productName=A, id=42eaa2f7], 
+NP14[productName=A, id=22b46baa], 
+NP15[productName=A, id=e1592e79], 
+NP16[productName=A, id=74f294c], 
+NP17[productName=A, id=5a51ff45], 
+NP18[productName=A, id=8cf675a3], 
+NP19[productName=A, id=89e27535], 
+NP20[productName=A, id=7e20e83b], 
+NP21[productName=A, id=cf46db33], 
+NP22[productName=A, id=ed299152], 
+NP23[productName=A, id=3d6766be], 
+NP24[productName=A, id=358c5d84], 
+NP25[productName=A, id=b4f0d6b0], 
+NP26[productName=A, id=4c0b617d], 
+NP27[productName=A, id=921b44e], 
+NP28[productName=A, id=2f939358], 
+NP29[productName=A, id=9b0a9c64], 
+NP30[productName=A, id=ee6d589f], 
+NP31[productName=A, id=ad3e7f2d], 
+NP32[productName=A, id=370f0934], 
+NP33[productName=A, id=465efbb6], 
+NP34[productName=A, id=45eea956], 
+NP35[productName=A, id=fd0a53f2], 
+NP36[productName=A, id=b3644865], 
+NP37[productName=A, id=2a2fa4a6], 
+NP38[productName=A, id=5576bddd], 
+NP39[productName=A, id=db11b874], 
+NP40[productName=A, id=db207c6e], 
+NP41[productName=A, id=8e1a1129], 
+NP42[productName=A, id=378a3a6f], 
+NP43[productName=A, id=3c2e2c7d], 
+NP44[productName=A, id=5ec474d], 
+NP45[productName=A, id=490391ff], 
+NP46[productName=A, id=c1054bd4], 
+NP47[productName=A, id=fa296388]][]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD29, Total paid: 50 (x * y + z)
+
+The native product info at the seller depot BD29
+x -> native product price: 6
+y -> # of native product sold: 8
+z -> native product delivery price: 2
+
+externalProduct=[
+NP34[productName=B, id=fdf31216], 
+NP9[productName=B, id=6bfa9c8], 
+NP38[productName=B, id=b2e246ef], 
+NP10[productName=B, id=ea8e104e], 
+NP23[productName=B, id=3eabf7b6], 
+NP25[productName=B, id=e2fbcfa1], 
+NP8[productName=B, id=bf24e4e], 
+NP31[productName=B, id=fee481c0]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD22, Total paid: 22 (x * y + z)
+
+The native product info at the seller depot CD22
+x -> native product price: 1
+y -> # of native product sold: 21
+z -> native product delivery price: 1
+
+externalProductII=[
+NP20[productName=C, id=32d5fdf2], 
+NP12[productName=C, id=704e5210], 
+NP13[productName=C, id=c6206c75], 
+NP9[productName=C, id=9e8b7f7e], 
+NP5[productName=C, id=f568cc5e], 
+NP21[productName=C, id=cc369f29], 
+NP8[productName=C, id=924766f6], 
+NP7[productName=C, id=50e364f8], 
+NP19[productName=C, id=bb7624fe], 
+NP6[productName=C, id=de02295e], 
+NP14[productName=C, id=f2a47516], 
+NP4[productName=C, id=8d039c38], 
+NP15[productName=C, id=bb505e91], 
+NP3[productName=C, id=8b71a575], 
+NP10[productName=C, id=16cf15a3], 
+NP17[productName=C, id=4fde6ab3], 
+NP16[productName=C, id=4afe23e5], 
+NP1[productName=C, id=63f90f84], 
+NP11[productName=C, id=e7f0afe], 
+NP18[productName=C, id=f4b345], 
+NP2[productName=C, id=90d6227]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD36, intialCash=83, currentCash=12, initial # of native products=42
+
+<The default native products price info at THIS depot>
+price=1, deliveryPrice=7
+
+nativeProduct left=[
+NP1[productName=A, id=a32f8914], 
+NP2[productName=A, id=530b3b72], 
+NP3[productName=A, id=11b21fb4], 
+NP4[productName=A, id=64bbc56c], 
+NP5[productName=A, id=56269775], 
+NP6[productName=A, id=1233368b], 
+NP7[productName=A, id=21d21f14], 
+NP8[productName=A, id=72819d58], 
+NP9[productName=A, id=fa98e214], 
+NP11[productName=A, id=9b02116b], 
+NP13[productName=A, id=e62ef5e8], 
+NP14[productName=A, id=8777bbc8], 
+NP16[productName=A, id=9105177e], 
+NP17[productName=A, id=b3d5409b], 
+NP18[productName=A, id=3b088830], 
+NP20[productName=A, id=23258111], 
+NP21[productName=A, id=fac49205], 
+NP22[productName=A, id=f4f100e6], 
+NP23[productName=A, id=637bd60f], 
+NP24[productName=A, id=f71d2a7f], 
+NP25[productName=A, id=3fbdc0bf], 
+NP26[productName=A, id=80f3d92b], 
+NP27[productName=A, id=2bc94f82], 
+NP29[productName=A, id=d495e125], 
+NP30[productName=A, id=c44250be], 
+NP31[productName=A, id=bf5973df], 
+NP32[productName=A, id=6c899220], 
+NP33[productName=A, id=2ddb253d], 
+NP34[productName=A, id=710279c2], 
+NP35[productName=A, id=a0a651e0], 
+NP36[productName=A, id=466a4945], 
+NP37[productName=A, id=1b82d4c], 
+NP38[productName=A, id=4812139a], 
+NP39[productName=A, id=e3839045], 
+NP40[productName=A, id=818c955], 
+NP41[productName=A, id=26db976d], 
+NP42[productName=A, id=c28f5e5b]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD45, Total earned from the buyer depot: 12 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD36"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot BD45: 5
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP12[productName=A, id=bc282470], 
+NP15[productName=A, id=2280a4fc], 
+NP19[productName=A, id=bec5ce02], 
+NP28[productName=A, id=db01f88f], 
+NP10[productName=A, id=99647746]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD7, Total paid: 44 (x * y + z)
+
+The native product info at the seller depot BD7
+x -> native product price: 8
+y -> # of native product sold: 5
+z -> native product delivery price: 4
+
+externalProduct=[
+NP1[productName=B, id=abda90d2], 
+NP8[productName=B, id=fb30a3a2], 
+NP17[productName=B, id=82a4c4a], 
+NP9[productName=B, id=229bfad5], 
+NP12[productName=B, id=7f93b76c]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD24, Total paid: 39 (x * y + z)
+
+The native product info at the seller depot CD24
+x -> native product price: 1
+y -> # of native product sold: 33
+z -> native product delivery price: 6
+
+externalProductII=[
+NP34[productName=C, id=a655ed8a], 
+NP6[productName=C, id=53192af7], 
+NP16[productName=C, id=2aa050ff], 
+NP12[productName=C, id=79753385], 
+NP3[productName=C, id=9fa0548], 
+NP26[productName=C, id=ed6127e0], 
+NP25[productName=C, id=c0f6b570], 
+NP11[productName=C, id=f4cbb675], 
+NP8[productName=C, id=c602b3e5], 
+NP38[productName=C, id=a389bd5e], 
+NP23[productName=C, id=ab170703], 
+NP1[productName=C, id=7929fbce], 
+NP4[productName=C, id=80c3243b], 
+NP14[productName=C, id=57f424de], 
+NP20[productName=C, id=676585a3], 
+NP9[productName=C, id=7ef5e470], 
+NP28[productName=C, id=cbba374d], 
+NP2[productName=C, id=c60d69bd], 
+NP36[productName=C, id=c7506488], 
+NP22[productName=C, id=4d98c12f], 
+NP31[productName=C, id=4a82987d], 
+NP37[productName=C, id=40e0c832], 
+NP13[productName=C, id=7d89af63], 
+NP32[productName=C, id=f44cd87b], 
+NP21[productName=C, id=4fbee763], 
+NP17[productName=C, id=8dfbf3db], 
+NP30[productName=C, id=6a0cb705], 
+NP18[productName=C, id=43057b26], 
+NP15[productName=C, id=f2922981], 
+NP10[productName=C, id=f9bd53d5], 
+NP19[productName=C, id=372f9c53], 
+NP24[productName=C, id=948bbe58], 
+NP27[productName=C, id=6c306533]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD37, intialCash=85, currentCash=38, initial # of native products=32
+
+<The default native products price info at THIS depot>
+price=1, deliveryPrice=1
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD17, Total earned from the buyer depot: 33 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD37"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot CD17: 32
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP29[productName=A, id=a8739d25], 
+NP17[productName=A, id=e202e9f1], 
+NP25[productName=A, id=8c21ff3f], 
+NP1[productName=A, id=807eb5a9], 
+NP30[productName=A, id=b249d880], 
+NP7[productName=A, id=3ef99f6b], 
+NP31[productName=A, id=33f8d2d], 
+NP12[productName=A, id=8a25c03d], 
+NP9[productName=A, id=a2493653], 
+NP14[productName=A, id=317666c8], 
+NP2[productName=A, id=638ae3ec], 
+NP10[productName=A, id=cb107ecc], 
+NP23[productName=A, id=896f917e], 
+NP8[productName=A, id=4e161436], 
+NP24[productName=A, id=ab352b7d], 
+NP28[productName=A, id=61f57fdf], 
+NP18[productName=A, id=42653de], 
+NP5[productName=A, id=d58a7ec1], 
+NP20[productName=A, id=f4ad68ee], 
+NP16[productName=A, id=af6dd75], 
+NP4[productName=A, id=68bdefa2], 
+NP19[productName=A, id=fdcb859f], 
+NP26[productName=A, id=b16768fe], 
+NP15[productName=A, id=a698dbaf], 
+NP22[productName=A, id=5d4c66c3], 
+NP27[productName=A, id=c6e25d1e], 
+NP3[productName=A, id=c37f91d6], 
+NP11[productName=A, id=c6053a99], 
+NP6[productName=A, id=5ab98a55], 
+NP21[productName=A, id=209d28c1], 
+NP32[productName=A, id=8744d1a6], 
+NP13[productName=A, id=2796b787]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD35, Total paid: 39 (x * y + z)
+
+The native product info at the seller depot BD35
+x -> native product price: 6
+y -> # of native product sold: 6
+z -> native product delivery price: 3
+
+externalProduct=[
+NP47[productName=B, id=37b2ed67], 
+NP11[productName=B, id=aa5db7a4], 
+NP46[productName=B, id=c7ba46bf], 
+NP19[productName=B, id=3b8807ac], 
+NP45[productName=B, id=acef7d9e], 
+NP3[productName=B, id=ea3badb1]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD20, Total paid: 41 (x * y + z)
+
+The native product info at the seller depot CD20
+x -> native product price: 4
+y -> # of native product sold: 8
+z -> native product delivery price: 9
+
+externalProductII=[
+NP4[productName=C, id=dd75d1e8], 
+NP19[productName=C, id=ed2e64a7], 
+NP28[productName=C, id=482417ae], 
+NP10[productName=C, id=293ee8ba], 
+NP9[productName=C, id=eeef7c3a], 
+NP5[productName=C, id=fe203574], 
+NP20[productName=C, id=7c690ef2], 
+NP8[productName=C, id=7a07396a]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD38, intialCash=96, currentCash=52, initial # of native products=29
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=5
+
+nativeProduct left=[
+NP1[productName=A, id=42a5d758], 
+NP2[productName=A, id=8fc0f7cd], 
+NP3[productName=A, id=bcda40ae], 
+NP4[productName=A, id=f57c2702], 
+NP5[productName=A, id=671dd2a], 
+NP6[productName=A, id=7cb6dd7b], 
+NP7[productName=A, id=54dea494], 
+NP8[productName=A, id=60fc6f26], 
+NP9[productName=A, id=a7fb3130], 
+NP10[productName=A, id=9f34255d], 
+NP11[productName=A, id=fe908cc3], 
+NP12[productName=A, id=bc3e3dcf], 
+NP13[productName=A, id=9143b32b], 
+NP14[productName=A, id=5e2de507], 
+NP15[productName=A, id=c9fc5adc], 
+NP16[productName=A, id=bb62909e], 
+NP17[productName=A, id=e9bc6811], 
+NP18[productName=A, id=c5647f05], 
+NP19[productName=A, id=fc2c6806], 
+NP20[productName=A, id=2206f805], 
+NP21[productName=A, id=e3ff80a1], 
+NP22[productName=A, id=6bff8c0d], 
+NP23[productName=A, id=b9b0b37a], 
+NP24[productName=A, id=8d587455], 
+NP25[productName=A, id=6369f504], 
+NP26[productName=A, id=f26f6d98], 
+NP27[productName=A, id=eca928c4], 
+NP28[productName=A, id=2feeea24], 
+NP29[productName=A, id=ac83a479]][]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD30, Total paid: 33 (x * y + z)
+
+The native product info at the seller depot BD30
+x -> native product price: 1
+y -> # of native product sold: 25
+z -> native product delivery price: 8
+
+externalProduct=[
+NP25[productName=B, id=7440d7ac], 
+NP10[productName=B, id=4825e180], 
+NP6[productName=B, id=4eb4b90], 
+NP5[productName=B, id=4f53cbff], 
+NP9[productName=B, id=38cb9a82], 
+NP19[productName=B, id=29983cc6], 
+NP2[productName=B, id=33d19b80], 
+NP1[productName=B, id=b08f3e2], 
+NP24[productName=B, id=d9b0741d], 
+NP11[productName=B, id=ea1b204e], 
+NP20[productName=B, id=7cb28e9b], 
+NP7[productName=B, id=9b4fc5c1], 
+NP3[productName=B, id=b0153316], 
+NP23[productName=B, id=7b1b5854], 
+NP14[productName=B, id=cdcc8bef], 
+NP21[productName=B, id=bf6aaf0], 
+NP22[productName=B, id=113992c7], 
+NP4[productName=B, id=79531e84], 
+NP8[productName=B, id=9ade576], 
+NP16[productName=B, id=3818ea80], 
+NP15[productName=B, id=a9ac9f92], 
+NP13[productName=B, id=f0da6cb5], 
+NP18[productName=B, id=d39e2f1], 
+NP12[productName=B, id=43cc59cd], 
+NP17[productName=B, id=2327dc20]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD27, Total paid: 11 (x * y + z)
+
+The native product info at the seller depot CD27
+x -> native product price: 1
+y -> # of native product sold: 6
+z -> native product delivery price: 5
+
+externalProductII=[
+NP6[productName=C, id=13f0171a], 
+NP10[productName=C, id=243665db], 
+NP13[productName=C, id=d2e13c], 
+NP2[productName=C, id=161962b0], 
+NP4[productName=C, id=dd2f5bf7], 
+NP17[productName=C, id=6383a5c3]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD39, intialCash=61, currentCash=59, initial # of native products=23
+
+<The default native products price info at THIS depot>
+price=6, deliveryPrice=4
+
+nativeProduct left=[
+NP2[productName=A, id=bdbdc95d], 
+NP3[productName=A, id=a823f282], 
+NP4[productName=A, id=c5029080], 
+NP6[productName=A, id=2517e379], 
+NP7[productName=A, id=db7255f8], 
+NP8[productName=A, id=3deaab38], 
+NP11[productName=A, id=450613a9], 
+NP14[productName=A, id=8e6f506], 
+NP16[productName=A, id=586f005a], 
+NP18[productName=A, id=75ec471e], 
+NP19[productName=A, id=f8390ea], 
+NP20[productName=A, id=f1be939a], 
+NP22[productName=A, id=c8142ec2], 
+NP23[productName=A, id=275c7c0b]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD43, Total earned from the buyer depot: 58 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD39"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot CD43: 9
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP17[productName=A, id=75a5df70], 
+NP12[productName=A, id=49753eec], 
+NP13[productName=A, id=8dd35f0], 
+NP15[productName=A, id=56181ab], 
+NP21[productName=A, id=e709ad8], 
+NP10[productName=A, id=972e6060], 
+NP1[productName=A, id=55e20665], 
+NP9[productName=A, id=ef59a111], 
+NP5[productName=A, id=e17387f3]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD50, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD50
+x -> native product price: 6
+y -> # of native product sold: 0
+z -> native product delivery price: 8
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD26, Total paid: 60 (x * y + z)
+
+The native product info at the seller depot CD26
+x -> native product price: 4
+y -> # of native product sold: 14
+z -> native product delivery price: 4
+
+externalProductII=[
+NP18[productName=C, id=21cf37a5], 
+NP17[productName=C, id=fb3a99a2], 
+NP4[productName=C, id=5012c64c], 
+NP8[productName=C, id=f54b4285], 
+NP5[productName=C, id=c68dfe53], 
+NP3[productName=C, id=2d22e9a9], 
+NP10[productName=C, id=8b1d8543], 
+NP1[productName=C, id=6e880b0d], 
+NP19[productName=C, id=eabce4a0], 
+NP6[productName=C, id=1806e76d], 
+NP12[productName=C, id=dc0a93f3], 
+NP9[productName=C, id=d2136f3c], 
+NP2[productName=C, id=e2740e43], 
+NP13[productName=C, id=1e4b0a4f]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD40, intialCash=53, currentCash=130, initial # of native products=47
+
+<The default native products price info at THIS depot>
+price=5, deliveryPrice=7
+
+nativeProduct left=[
+NP1[productName=A, id=acd22b4f], 
+NP3[productName=A, id=fd6848d0], 
+NP4[productName=A, id=4065b605], 
+NP6[productName=A, id=b69f72db], 
+NP9[productName=A, id=111c7666], 
+NP12[productName=A, id=4d5383d9], 
+NP13[productName=A, id=bc5d8caa], 
+NP14[productName=A, id=9d9229a4], 
+NP18[productName=A, id=8df97088], 
+NP25[productName=A, id=99092ba5], 
+NP26[productName=A, id=5814d808], 
+NP27[productName=A, id=6798a90d], 
+NP29[productName=A, id=a38b1265], 
+NP30[productName=A, id=dad23bef], 
+NP33[productName=A, id=a6c2f271], 
+NP35[productName=A, id=1ff80006], 
+NP37[productName=A, id=9fe921c6], 
+NP38[productName=A, id=739366d], 
+NP41[productName=A, id=25a759f3], 
+NP43[productName=A, id=8571d8b5], 
+NP44[productName=A, id=fbdca1f3], 
+NP45[productName=A, id=59814e12], 
+NP46[productName=A, id=43ba7aea], 
+NP47[productName=A, id=bd773198]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD3, Total earned from the buyer depot: 102 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD40"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot CD3: 19
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP19[productName=A, id=6168f503], 
+NP40[productName=A, id=90ba6f6c], 
+NP16[productName=A, id=1844cc10], 
+NP20[productName=A, id=53387202], 
+NP34[productName=A, id=5aa2a989], 
+NP36[productName=A, id=c7c81628], 
+NP31[productName=A, id=82d7317e], 
+NP24[productName=A, id=bb6fa57d], 
+NP7[productName=A, id=e0b7c6d7], 
+NP22[productName=A, id=50aedcd9], 
+NP5[productName=A, id=de682f6d], 
+NP39[productName=A, id=b1b3b0fa], 
+NP28[productName=A, id=7663367e], 
+NP32[productName=A, id=f02aeab0], 
+NP11[productName=A, id=836c4da6], 
+NP21[productName=A, id=37d378a6], 
+NP17[productName=A, id=24169fd9], 
+NP42[productName=A, id=adefd27], 
+NP10[productName=A, id=6992cb8f]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD10, Total earned from the buyer depot: 27 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD40"
+x -> native products price: 5
+y -> # of native products sold to the buyer depot BD10: 4
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP8[productName=A, id=11a7eec6], 
+NP15[productName=A, id=415b3a60], 
+NP2[productName=A, id=a8bda33], 
+NP23[productName=A, id=df3533e4]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD28, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD28
+x -> native product price: 3
+y -> # of native product sold: 0
+z -> native product delivery price: 8
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD21, Total paid: 52 (x * y + z)
+
+The native product info at the seller depot CD21
+x -> native product price: 2
+y -> # of native product sold: 23
+z -> native product delivery price: 6
+
+externalProductII=[
+NP12[productName=C, id=595af955], 
+NP8[productName=C, id=f8d01b29], 
+NP30[productName=C, id=73a17485], 
+NP3[productName=C, id=f3249393], 
+NP20[productName=C, id=f9a1162], 
+NP17[productName=C, id=5cfe3c60], 
+NP26[productName=C, id=3fea6db5], 
+NP21[productName=C, id=891e7daf], 
+NP15[productName=C, id=f6b4d210], 
+NP14[productName=C, id=7f578b65], 
+NP2[productName=C, id=9c958237], 
+NP24[productName=C, id=8cc92c00], 
+NP1[productName=C, id=238dda5f], 
+NP16[productName=C, id=12a383e3], 
+NP9[productName=C, id=89656502], 
+NP29[productName=C, id=fe30feb9], 
+NP6[productName=C, id=96dfb5ae], 
+NP5[productName=C, id=febe8ce4], 
+NP22[productName=C, id=77907b8a], 
+NP27[productName=C, id=7c59ad20], 
+NP7[productName=C, id=12ebbf0e], 
+NP13[productName=C, id=eb69bce7], 
+NP18[productName=C, id=79a1574d]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD41, intialCash=60, currentCash=33, initial # of native products=16
+
+<The default native products price info at THIS depot>
+price=3, deliveryPrice=4
+
+nativeProduct left=[
+NP2[productName=A, id=35212200], 
+NP3[productName=A, id=2ed8755f], 
+NP4[productName=A, id=1ce25e94], 
+NP7[productName=A, id=5a15bc53], 
+NP9[productName=A, id=c23a3fae], 
+NP12[productName=A, id=2c1aec44], 
+NP13[productName=A, id=86250dad], 
+NP16[productName=A, id=d750b4d4]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD43, Total earned from the buyer depot: 28 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD41"
+x -> native products price: 3
+y -> # of native products sold to the buyer depot BD43: 8
+z -> native products delivery price: 4
+
+nativeProduct sold=[
+NP15[productName=A, id=8b98cf00], 
+NP6[productName=A, id=40f819f6], 
+NP5[productName=A, id=856d41b9], 
+NP14[productName=A, id=c9be6575], 
+NP8[productName=A, id=302a2344], 
+NP1[productName=A, id=30ead4b], 
+NP11[productName=A, id=9fa5d743], 
+NP10[productName=A, id=498ab4c]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD21, Total paid: 32 (x * y + z)
+
+The native product info at the seller depot BD21
+x -> native product price: 7
+y -> # of native product sold: 4
+z -> native product delivery price: 4
+
+externalProduct=[
+NP2[productName=B, id=4e4c300f], 
+NP3[productName=B, id=ca2ed1db], 
+NP17[productName=B, id=5fe6f78], 
+NP16[productName=B, id=9d67124a]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD17, Total paid: 23 (x * y + z)
+
+The native product info at the seller depot CD17
+x -> native product price: 5
+y -> # of native product sold: 3
+z -> native product delivery price: 8
+
+externalProductII=[
+NP10[productName=C, id=a614cc59], 
+NP15[productName=C, id=3641fea0], 
+NP17[productName=C, id=84ec7b98]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD42, intialCash=68, currentCash=166, initial # of native products=36
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=2
+
+nativeProduct left=[
+NP1[productName=A, id=c119bfb3], 
+NP2[productName=A, id=37fdbcef], 
+NP9[productName=A, id=87459887], 
+NP12[productName=A, id=f940820f], 
+NP15[productName=A, id=582655a8], 
+NP18[productName=A, id=be89d6b3], 
+NP19[productName=A, id=cca4c54c], 
+NP20[productName=A, id=596208ef], 
+NP22[productName=A, id=c98baeda], 
+NP23[productName=A, id=cc8f401a], 
+NP25[productName=A, id=ee247b85], 
+NP26[productName=A, id=fe4ab5c8], 
+NP29[productName=A, id=238b0f82], 
+NP31[productName=A, id=f1326206], 
+NP33[productName=A, id=b842c1a4], 
+NP34[productName=A, id=51262e17], 
+NP35[productName=A, id=85214a12], 
+NP36[productName=A, id=6c7f3053]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD24, Total earned from the buyer depot: 11 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD42"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot CD24: 1
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP10[productName=A, id=922a79]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD28, Total earned from the buyer depot: 155 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD42"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot BD28: 17
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP17[productName=A, id=3e84ebe9], 
+NP7[productName=A, id=493a04cb], 
+NP28[productName=A, id=dbc70dd2], 
+NP8[productName=A, id=e0f59823], 
+NP11[productName=A, id=66ea05e8], 
+NP21[productName=A, id=44f180c8], 
+NP3[productName=A, id=bcc947f], 
+NP4[productName=A, id=add3f083], 
+NP24[productName=A, id=fde1dfe6], 
+NP6[productName=A, id=37a24623], 
+NP16[productName=A, id=93b4f341], 
+NP30[productName=A, id=7412579], 
+NP32[productName=A, id=683edf21], 
+NP5[productName=A, id=505c73f9], 
+NP13[productName=A, id=a49e174a], 
+NP27[productName=A, id=71c987ad], 
+NP14[productName=A, id=e6957ed7]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD20, Total paid: 28 (x * y + z)
+
+The native product info at the seller depot BD20
+x -> native product price: 8
+y -> # of native product sold: 3
+z -> native product delivery price: 4
+
+externalProduct=[
+NP17[productName=B, id=82d7125b], 
+NP6[productName=B, id=d676fb04], 
+NP11[productName=B, id=59302e32]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD37, Total paid: 40 (x * y + z)
+
+The native product info at the seller depot CD37
+x -> native product price: 9
+y -> # of native product sold: 4
+z -> native product delivery price: 4
+
+externalProductII=[
+NP9[productName=C, id=2537ff79], 
+NP22[productName=C, id=9333fd39], 
+NP16[productName=C, id=72e8094e], 
+NP32[productName=C, id=8cf77eb3]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD43, intialCash=85, currentCash=27, initial # of native products=15
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=7
+
+nativeProduct left=[
+NP1[productName=A, id=e6132d09], 
+NP2[productName=A, id=fef90827], 
+NP3[productName=A, id=291ae65b], 
+NP4[productName=A, id=59813290], 
+NP5[productName=A, id=8a050113], 
+NP6[productName=A, id=aee1557d], 
+NP7[productName=A, id=88a49247], 
+NP8[productName=A, id=a82441c3], 
+NP9[productName=A, id=154fb3ed], 
+NP10[productName=A, id=68f2310c], 
+NP11[productName=A, id=dab06bd7], 
+NP12[productName=A, id=38f5f2c9], 
+NP13[productName=A, id=37cbf1ba]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD20, Total earned from the buyer depot: 23 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD43"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot BD20: 2
+z -> native products delivery price: 7
+
+nativeProduct sold=[
+NP15[productName=A, id=dde8cb5], 
+NP14[productName=A, id=7a3b0bbc]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD6, Total paid: 41 (x * y + z)
+
+The native product info at the seller depot BD6
+x -> native product price: 6
+y -> # of native product sold: 6
+z -> native product delivery price: 5
+
+externalProduct=[
+NP18[productName=B, id=9e3bf82e], 
+NP17[productName=B, id=6ef10714], 
+NP8[productName=B, id=aec04df7], 
+NP5[productName=B, id=16e6abc6], 
+NP13[productName=B, id=126d2c45], 
+NP7[productName=B, id=b5a9f597]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD50, Total paid: 40 (x * y + z)
+
+The native product info at the seller depot CD50
+x -> native product price: 9
+y -> # of native product sold: 4
+z -> native product delivery price: 4
+
+externalProductII=[
+NP38[productName=C, id=60cb6df4], 
+NP12[productName=C, id=743a0736], 
+NP21[productName=C, id=3f326e03], 
+NP32[productName=C, id=51641ce7]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD44, intialCash=50, currentCash=101, initial # of native products=43
+
+<The default native products price info at THIS depot>
+price=6, deliveryPrice=6
+
+nativeProduct left=[
+NP1[productName=A, id=27652d81], 
+NP2[productName=A, id=f67a5903], 
+NP3[productName=A, id=320fd9ad], 
+NP4[productName=A, id=e4109f6a], 
+NP5[productName=A, id=326079a7], 
+NP6[productName=A, id=4a94ff19], 
+NP7[productName=A, id=31d10e1c], 
+NP8[productName=A, id=2dae6de0], 
+NP10[productName=A, id=30b4322f], 
+NP11[productName=A, id=508daeb1], 
+NP13[productName=A, id=f92db297], 
+NP14[productName=A, id=ee739da5], 
+NP15[productName=A, id=b2ef287], 
+NP17[productName=A, id=a1d32351], 
+NP18[productName=A, id=1f16d144], 
+NP19[productName=A, id=4e215bbd], 
+NP20[productName=A, id=9299de7a], 
+NP24[productName=A, id=5903a435], 
+NP25[productName=A, id=e48f1f60], 
+NP27[productName=A, id=a172ed3c], 
+NP29[productName=A, id=6667247b], 
+NP30[productName=A, id=b9dfecb1], 
+NP31[productName=A, id=6f4b675], 
+NP32[productName=A, id=f538ced9], 
+NP35[productName=A, id=9445d16c], 
+NP36[productName=A, id=c278c2d1], 
+NP39[productName=A, id=e87cb88a], 
+NP40[productName=A, id=c3073ad9], 
+NP41[productName=A, id=4863f80c]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD1, Total earned from the buyer depot: 54 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD44"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot CD1: 8
+z -> native products delivery price: 6
+
+nativeProduct sold=[
+NP33[productName=A, id=7b4eb607], 
+NP34[productName=A, id=87980533], 
+NP26[productName=A, id=17847a6c], 
+NP21[productName=A, id=52f6d115], 
+NP12[productName=A, id=3bf4e866], 
+NP42[productName=A, id=7b6018e7], 
+NP22[productName=A, id=1742563f], 
+NP9[productName=A, id=74e1c162]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD36, Total earned from the buyer depot: 42 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD44"
+x -> native products price: 6
+y -> # of native products sold to the buyer depot BD36: 6
+z -> native products delivery price: 6
+
+nativeProduct sold=[
+NP43[productName=A, id=3a155700], 
+NP16[productName=A, id=2ebb8085], 
+NP38[productName=A, id=a2fbe2e9], 
+NP28[productName=A, id=27b4ffad], 
+NP37[productName=A, id=75da9c8d], 
+NP23[productName=A, id=6943d9cb]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD9, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD9
+x -> native product price: 4
+y -> # of native product sold: 0
+z -> native product delivery price: 2
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD33, Total paid: 45 (x * y + z)
+
+The native product info at the seller depot CD33
+x -> native product price: 6
+y -> # of native product sold: 7
+z -> native product delivery price: 3
+
+externalProductII=[
+NP14[productName=C, id=79c63926], 
+NP22[productName=C, id=89f9545d], 
+NP11[productName=C, id=76f876af], 
+NP1[productName=C, id=88d9b4a2], 
+NP21[productName=C, id=b22d1cac], 
+NP16[productName=C, id=374790], 
+NP5[productName=C, id=bafedd3b]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD45, intialCash=60, currentCash=95, initial # of native products=22
+
+<The default native products price info at THIS depot>
+price=4, deliveryPrice=3
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD14, Total earned from the buyer depot: 19 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD45"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot CD14: 4
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP13[productName=A, id=d081b830], 
+NP14[productName=A, id=4e4572bf], 
+NP11[productName=A, id=ad5d9217], 
+NP7[productName=A, id=70b1421f]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD14, Total earned from the buyer depot: 75 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD45"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot BD14: 18
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP2[productName=A, id=7ad7e749], 
+NP8[productName=A, id=e3238c22], 
+NP10[productName=A, id=3619bfec], 
+NP18[productName=A, id=e89cbc6f], 
+NP22[productName=A, id=d99fd088], 
+NP20[productName=A, id=b1dad245], 
+NP15[productName=A, id=6e6d8847], 
+NP6[productName=A, id=f9da1206], 
+NP17[productName=A, id=f14e61fe], 
+NP16[productName=A, id=960571cb], 
+NP19[productName=A, id=f95e788b], 
+NP5[productName=A, id=18e18899], 
+NP21[productName=A, id=f6d7662b], 
+NP1[productName=A, id=5d8a2915], 
+NP9[productName=A, id=6cf52c59], 
+NP3[productName=A, id=37b49180], 
+NP4[productName=A, id=6b0dd230], 
+NP12[productName=A, id=85659704]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD5, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD5
+x -> native product price: 9
+y -> # of native product sold: 0
+z -> native product delivery price: 3
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD48, Total paid: 59 (x * y + z)
+
+The native product info at the seller depot CD48
+x -> native product price: 6
+y -> # of native product sold: 9
+z -> native product delivery price: 5
+
+externalProductII=[
+NP1[productName=C, id=c067122b], 
+NP6[productName=C, id=e817802a], 
+NP27[productName=C, id=515b5bf1], 
+NP9[productName=C, id=ef1c145e], 
+NP13[productName=C, id=b6ee1094], 
+NP28[productName=C, id=c756c52e], 
+NP30[productName=C, id=f490330f], 
+NP29[productName=C, id=f0710480], 
+NP12[productName=C, id=a53623ee]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD46, intialCash=83, currentCash=86, initial # of native products=34
+
+<The default native products price info at THIS depot>
+price=4, deliveryPrice=2
+
+nativeProduct left=[
+NP2[productName=A, id=6ea05e87], 
+NP8[productName=A, id=ee290aa7], 
+NP9[productName=A, id=23f4913f], 
+NP13[productName=A, id=1b0b7746], 
+NP14[productName=A, id=b77a66fd], 
+NP18[productName=A, id=e8bbf4e6], 
+NP25[productName=A, id=a6e0deb0], 
+NP27[productName=A, id=2b4e8f29], 
+NP29[productName=A, id=323eb269], 
+NP30[productName=A, id=724ee56f], 
+NP32[productName=A, id=19122e53], 
+NP33[productName=A, id=a6fe8d5f], 
+NP34[productName=A, id=c9b25d6c]][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD19, Total earned from the buyer depot: 86 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD46"
+x -> native products price: 4
+y -> # of native products sold to the buyer depot BD19: 21
+z -> native products delivery price: 2
+
+nativeProduct sold=[
+NP24[productName=A, id=4fd30a5b], 
+NP7[productName=A, id=a4e277cf], 
+NP1[productName=A, id=157f6d16], 
+NP4[productName=A, id=5744053f], 
+NP19[productName=A, id=df47ec1d], 
+NP6[productName=A, id=b366901c], 
+NP31[productName=A, id=821a48cd], 
+NP23[productName=A, id=bc49b2cf], 
+NP12[productName=A, id=33f82e73], 
+NP17[productName=A, id=bbbd69c3], 
+NP3[productName=A, id=34a51463], 
+NP5[productName=A, id=bd401af8], 
+NP26[productName=A, id=15f2e033], 
+NP21[productName=A, id=e60b50b1], 
+NP20[productName=A, id=40bc3174], 
+NP22[productName=A, id=1b48a414], 
+NP11[productName=A, id=874351fd], 
+NP15[productName=A, id=dffc5542], 
+NP28[productName=A, id=820ba316], 
+NP10[productName=A, id=438ea115], 
+NP16[productName=A, id=4ccd79ee]]]
+
+<THIS depot bought the following external product(s) from the company B>
+Seller Depot: BD24, Total paid: 8 (x * y + z)
+
+The native product info at the seller depot BD24
+x -> native product price: 2
+y -> # of native product sold: 2
+z -> native product delivery price: 4
+
+externalProduct=[
+NP36[productName=B, id=85cf2d50], 
+NP10[productName=B, id=3b60570b]]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD32, Total paid: 75 (x * y + z)
+
+The native product info at the seller depot CD32
+x -> native product price: 3
+y -> # of native product sold: 23
+z -> native product delivery price: 6
+
+externalProductII=[
+NP15[productName=C, id=fa811de6], 
+NP9[productName=C, id=7aa69175], 
+NP21[productName=C, id=cb7a0f89], 
+NP11[productName=C, id=498639bb], 
+NP7[productName=C, id=f2c78891], 
+NP8[productName=C, id=5f0c36ec], 
+NP22[productName=C, id=890288b9], 
+NP14[productName=C, id=670e5ffd], 
+NP10[productName=C, id=782228bd], 
+NP3[productName=C, id=6ff39402], 
+NP12[productName=C, id=a007fe51], 
+NP2[productName=C, id=eac3661], 
+NP23[productName=C, id=7047188], 
+NP4[productName=C, id=9d4fd155], 
+NP6[productName=C, id=779d5b8], 
+NP17[productName=C, id=eb92ef68], 
+NP19[productName=C, id=30a1936a], 
+NP13[productName=C, id=1692abce], 
+NP1[productName=C, id=7f1dc7ba], 
+NP5[productName=C, id=7a998a8b], 
+NP20[productName=C, id=91899bea], 
+NP18[productName=C, id=5f81975a], 
+NP16[productName=C, id=87ff7785]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD47, intialCash=51, currentCash=34, initial # of native products=25
+
+<The default native products price info at THIS depot>
+price=1, deliveryPrice=3
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD29, Total earned from the buyer depot: 28 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD47"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot CD29: 25
+z -> native products delivery price: 3
+
+nativeProduct sold=[
+NP9[productName=A, id=b372835f], 
+NP1[productName=A, id=2f2a169b], 
+NP25[productName=A, id=c106289c], 
+NP16[productName=A, id=e9a9a35c], 
+NP12[productName=A, id=93974356], 
+NP22[productName=A, id=f05d3868], 
+NP11[productName=A, id=5b94a454], 
+NP17[productName=A, id=350e707], 
+NP2[productName=A, id=6b945c25], 
+NP4[productName=A, id=a0749733], 
+NP8[productName=A, id=ba0896c9], 
+NP19[productName=A, id=e756658b], 
+NP21[productName=A, id=3091c1cb], 
+NP14[productName=A, id=64adc5b], 
+NP18[productName=A, id=4b58a654], 
+NP6[productName=A, id=1fc9bc7c], 
+NP24[productName=A, id=d3836052], 
+NP10[productName=A, id=30ac6a85], 
+NP3[productName=A, id=faeb76e0], 
+NP20[productName=A, id=42a2c86], 
+NP13[productName=A, id=d701d851], 
+NP15[productName=A, id=8eaff03b], 
+NP5[productName=A, id=21f04559], 
+NP23[productName=A, id=ab1216cb], 
+NP7[productName=A, id=939aab78]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD8, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD8
+x -> native product price: 9
+y -> # of native product sold: 0
+z -> native product delivery price: 8
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD36, Total paid: 45 (x * y + z)
+
+The native product info at the seller depot CD36
+x -> native product price: 8
+y -> # of native product sold: 5
+z -> native product delivery price: 5
+
+externalProductII=[
+NP13[productName=C, id=b8eed889], 
+NP23[productName=C, id=b0e51207], 
+NP20[productName=C, id=ec5dae4d], 
+NP15[productName=C, id=c0e307e5], 
+NP19[productName=C, id=f75b7c76]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD48, intialCash=67, currentCash=157, initial # of native products=19
+
+<The default native products price info at THIS depot>
+price=8, deliveryPrice=1
+
+nativeProduct left=[][
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD44, Total earned from the buyer depot: 153 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD48"
+x -> native products price: 8
+y -> # of native products sold to the buyer depot BD44: 19
+z -> native products delivery price: 1
+
+nativeProduct sold=[
+NP18[productName=A, id=edd0da8d], 
+NP4[productName=A, id=4e20d21e], 
+NP2[productName=A, id=eafda5b7], 
+NP19[productName=A, id=d70e11f3], 
+NP12[productName=A, id=6f0e8e2c], 
+NP14[productName=A, id=a3eabc1e], 
+NP17[productName=A, id=98baf1b6], 
+NP5[productName=A, id=ea151d4c], 
+NP10[productName=A, id=d0bea761], 
+NP15[productName=A, id=ccc932d4], 
+NP16[productName=A, id=acfe6df9], 
+NP3[productName=A, id=5e2eb3eb], 
+NP13[productName=A, id=e3d67e1d], 
+NP7[productName=A, id=ccf289cf], 
+NP1[productName=A, id=61af8447], 
+NP8[productName=A, id=8c92c663], 
+NP9[productName=A, id=b3222eea], 
+NP6[productName=A, id=85372ea6], 
+NP11[productName=A, id=cacf3f6f]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD25, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD25
+x -> native product price: 4
+y -> # of native product sold: 0
+z -> native product delivery price: 3
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD44, Total paid: 63 (x * y + z)
+
+The native product info at the seller depot CD44
+x -> native product price: 6
+y -> # of native product sold: 10
+z -> native product delivery price: 3
+
+externalProductII=[
+NP18[productName=C, id=96656727], 
+NP4[productName=C, id=2e37f540], 
+NP30[productName=C, id=9d16d91d], 
+NP1[productName=C, id=c28e2884], 
+NP17[productName=C, id=a98aadcb], 
+NP22[productName=C, id=2533625e], 
+NP6[productName=C, id=9a32ec0], 
+NP25[productName=C, id=2a388a6b], 
+NP11[productName=C, id=4f5903df], 
+NP14[productName=C, id=82832da3]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD49, intialCash=52, currentCash=113, initial # of native products=33
+
+<The default native products price info at THIS depot>
+price=9, deliveryPrice=6
+
+nativeProduct left=[
+NP2[productName=A, id=7e12ad2d], 
+NP3[productName=A, id=7c70339b], 
+NP4[productName=A, id=be4f882a], 
+NP5[productName=A, id=46815b4b], 
+NP7[productName=A, id=9de9b5fb], 
+NP8[productName=A, id=bc01e154], 
+NP9[productName=A, id=d095cf7a], 
+NP10[productName=A, id=45b0f92a], 
+NP12[productName=A, id=333f41f], 
+NP13[productName=A, id=3e9317c4], 
+NP14[productName=A, id=f5c94b97], 
+NP16[productName=A, id=c030925f], 
+NP17[productName=A, id=da1f75ff], 
+NP18[productName=A, id=84cb107], 
+NP20[productName=A, id=9aeda516], 
+NP21[productName=A, id=dbd3a61d], 
+NP23[productName=A, id=98f8c68f], 
+NP25[productName=A, id=f57f9bd2], 
+NP26[productName=A, id=7e867ec9], 
+NP28[productName=A, id=be3d07a5], 
+NP29[productName=A, id=c3f2d36a], 
+NP31[productName=A, id=740a14d0]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD49, Total earned from the buyer depot: 51 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD49"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot CD49: 5
+z -> native products delivery price: 6
+
+nativeProduct sold=[
+NP33[productName=A, id=42dcde09], 
+NP1[productName=A, id=93072655], 
+NP15[productName=A, id=d0e81124], 
+NP19[productName=A, id=cc8fafb9], 
+NP6[productName=A, id=9bdfd05]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD13, Total earned from the buyer depot: 60 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD49"
+x -> native products price: 9
+y -> # of native products sold to the buyer depot BD13: 6
+z -> native products delivery price: 6
+
+nativeProduct sold=[
+NP30[productName=A, id=61d2d846], 
+NP24[productName=A, id=d0135b32], 
+NP11[productName=A, id=7366d127], 
+NP27[productName=A, id=6ebc4493], 
+NP22[productName=A, id=3d492c61], 
+NP32[productName=A, id=51f81c4d]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD41, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD41
+x -> native product price: 6
+y -> # of native product sold: 0
+z -> native product delivery price: 7
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD34, Total paid: 50 (x * y + z)
+
+The native product info at the seller depot CD34
+x -> native product price: 3
+y -> # of native product sold: 14
+z -> native product delivery price: 8
+
+externalProductII=[
+NP38[productName=C, id=83350097], 
+NP3[productName=C, id=66e4e432], 
+NP1[productName=C, id=21d274ad], 
+NP20[productName=C, id=3d375995], 
+NP29[productName=C, id=c1c26e35], 
+NP35[productName=C, id=a850d727], 
+NP7[productName=C, id=a45f26e0], 
+NP40[productName=C, id=141d5fab], 
+NP37[productName=C, id=3a516ecd], 
+NP2[productName=C, id=9d35eb35], 
+NP25[productName=C, id=67fef2b6], 
+NP18[productName=C, id=1deb8aec], 
+NP32[productName=C, id=2ef4c7c2], 
+NP5[productName=C, id=e3e6a355]]
+
+
+-----------------------------------------------------------------------------------------
+depotID=AD50, intialCash=85, currentCash=49, initial # of native products=32
+
+<The default native products price info at THIS depot>
+price=1, deliveryPrice=9
+
+nativeProduct left=[
+NP4[productName=A, id=6129b656], 
+NP5[productName=A, id=9cfcaa8c], 
+NP6[productName=A, id=5f81c3b], 
+NP25[productName=A, id=540b7d3], 
+NP27[productName=A, id=7569a95b], 
+NP29[productName=A, id=73df0616], 
+NP32[productName=A, id=bc3ff487]][
+
+<The following native products at THIS depot have been sold to the company C>
+Buyer Depot: CD10, Total earned from the buyer depot: 23 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD50"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot CD10: 14
+z -> native products delivery price: 9
+
+nativeProduct sold=[
+NP28[productName=A, id=df783486], 
+NP31[productName=A, id=4767f4b1], 
+NP24[productName=A, id=90360845], 
+NP14[productName=A, id=e1b735c4], 
+NP16[productName=A, id=d384c770], 
+NP2[productName=A, id=3cee889f], 
+NP23[productName=A, id=56b232e9], 
+NP26[productName=A, id=12d05a4e], 
+NP11[productName=A, id=34a1db44], 
+NP9[productName=A, id=54083181], 
+NP3[productName=A, id=34021503], 
+NP22[productName=A, id=c353d996], 
+NP30[productName=A, id=4e6fdae4], 
+NP12[productName=A, id=d1c1f26]], 
+
+<The following native products at THIS depot have been sold to the company B>
+Buyer Depot: BD39, Total earned from the buyer depot: 20 (x * y + z)
+
+!! NOTE: Please refer to THIS depot info above or see the below !!
+The native products info at THIS depot "AD50"
+x -> native products price: 1
+y -> # of native products sold to the buyer depot BD39: 11
+z -> native products delivery price: 9
+
+nativeProduct sold=[
+NP13[productName=A, id=ce79eaed], 
+NP8[productName=A, id=eb23342], 
+NP20[productName=A, id=79e6fb45], 
+NP1[productName=A, id=39450297], 
+NP21[productName=A, id=1070da9], 
+NP7[productName=A, id=520f3c81], 
+NP10[productName=A, id=31ad8d0b], 
+NP19[productName=A, id=ec56b0e9], 
+NP17[productName=A, id=d7be2563], 
+NP15[productName=A, id=b5dc46b9], 
+NP18[productName=A, id=da66ddc9]]]
+
+<THIS depot didn't buy any external products from the company B>
+Seller Depot: BD18, Total paid: 0 (x * y + z)
+
+The native product info at the seller depot BD18
+x -> native product price: 7
+y -> # of native product sold: 0
+z -> native product delivery price: 5
+
+externalProduct=[]
+
+<THIS depot bought the following external product(s) from the company C>
+Seller Depot: CD12, Total paid: 79 (x * y + z)
+
+The native product info at the seller depot CD12
+x -> native product price: 7
+y -> # of native product sold: 10
+z -> native product delivery price: 9
+
+externalProductII=[
+NP16[productName=C, id=8142183b], 
+NP30[productName=C, id=a27f4271], 
+NP1[productName=C, id=8c0c7dad], 
+NP35[productName=C, id=341412bb], 
+NP28[productName=C, id=4bdd0b9], 
+NP25[productName=C, id=60972b06], 
+NP2[productName=C, id=bd630f0a], 
+NP4[productName=C, id=33f09a4], 
+NP9[productName=C, id=4c37ab83], 
+NP7[productName=C, id=d5ffc772]]
