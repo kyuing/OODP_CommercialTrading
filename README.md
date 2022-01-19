@@ -13,10 +13,11 @@
   - two slots that hold each of external products in each depot
 
 
-* Once a simulation begins:
+* Once the program starts in console, a simulation begins:
   - Each company OBJ is created having a random number of native products generated at each depot. 
   - Each depot in a company then simulates to sell its native products to other companies 
-  - (In other words, each depot in companies each attempts to buy external products from a depot of other companies picked in random.)
+    (In other words, each depot in companies each attempts to buy external products from a depot of other companies picked in random.) 
+  - Any result printed is the output of a single simulation.
 
 
 ## Else
