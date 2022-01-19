@@ -2,7 +2,7 @@ package companyAbstract;
 
 import interfaces.Company;
 
-//abstract class CompanyDecorator that implements Company
+//abstract class CompanyAbstract that implements Company
 //the class exportedCompany will extend this class.
 public abstract class CompanyAbstract implements Company {
     
